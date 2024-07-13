@@ -12,10 +12,11 @@
 ## Virtual lab
 
 * [Virtual Box setup](virtual-lab/virtual-box-setup.md)
+* [Cribl demo](virtual-lab/cribl-demo.md)
 
 ## Detection Engineering
 
-* [Page 2](detection-engineering/page-2.md)
+* [Research](detection-engineering/research.md)
 
 ## Cloud projects
 
@@ -25,6 +26,6 @@
 
 * [Fabric](ai/fabric.md)
 
-## 52 week challenge - Bug Bounty Hunter
+## 52 week challenge - Bug Bounty Hunter Roadmap
 
-* [Page 1](52-week-challenge-bug-bounty-hunter/page-1.md)
+* [Week 1](52-week-challenge-bug-bounty-hunter-roadmap/week-1.md)
