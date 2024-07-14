@@ -14,7 +14,7 @@
 ## Virtual lab
 
 * [Virtual Box setup](virtual-lab/virtual-box-setup.md)
-* [Cribl demo](virtual-lab/cribl-demo.md)
+* [Cribl lab](virtual-lab/cribl-lab.md)
 
 ## Detection Engineering
 

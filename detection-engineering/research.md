@@ -1,2 +1,7 @@
-# Page 2
+# Research
 
+Magma / CMMI
+
+MITRE ATT\&CK
+
+Detection Engineer lifecycle
