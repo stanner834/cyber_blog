@@ -8,6 +8,8 @@
 * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
 * [Tails Linux](homelab/tails-linux.md)
+* [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
+* [Pi-Hole](homelab/pi-hole.md)
 
 ## Virtual lab
 
