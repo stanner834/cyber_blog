@@ -8,8 +8,8 @@
 * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
 * [Tails Linux](homelab/tails-linux.md)
-* [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
 * [Pi-Hole](homelab/pi-hole.md)
+* [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
 
 ## Virtual lab
 
@@ -31,3 +31,8 @@
 ## 52 week challenge - Bug Bounty Hunter Roadmap
 
 * [Week 1](52-week-challenge-bug-bounty-hunter-roadmap/week-1.md)
+* [Week 2](52-week-challenge-bug-bounty-hunter-roadmap/week-2.md)
+
+## Book Club
+
+* [IT](book-club/it.md)
