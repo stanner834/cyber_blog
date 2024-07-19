@@ -6,13 +6,13 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 
 
-Social media:
+## Social Media:
 
 [https://github.com/stanner834](https://github.com/stanner834)
 
 [https://www.linkedin.com/in/samuelatanner/](https://www.linkedin.com/in/samuelatanner/)
 
-Professional Affiliations:
+## Professional affiliations:
 
 * CompTIA Security+
 * CompTIA Network+
@@ -20,11 +20,11 @@ Professional Affiliations:
 * AWS Certified Cloud Practitioner
 * Cribl Certified User
 
-Top Skills & Tools:
+## Top skills and tools
 
 * Splunk Enterprise Security
 * Google Chronicle
+* Cribl Stream
 * Python
 * SQL
-* Cribl Stream
 
