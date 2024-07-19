@@ -10,11 +10,8 @@
 * [Tails Linux](homelab/tails-linux.md)
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
-
-## Virtual lab
-
-* [Virtual Box setup](virtual-lab/virtual-box-setup.md)
-* [Cribl lab](virtual-lab/cribl-lab.md)
+* [Virtual Box setup](homelab/virtual-box-setup.md)
+* [Cribl lab](homelab/cribl-lab.md)
 
 ## Detection Engineering
 
@@ -28,10 +25,10 @@
 
 * [Fabric](ai/fabric.md)
 
-## 52 week challenge - Bug Bounty Hunter Roadmap
+## Bug Bounty challenges
 
-* [Week 1](52-week-challenge-bug-bounty-hunter-roadmap/week-1.md)
-* [Week 2](52-week-challenge-bug-bounty-hunter-roadmap/week-2.md)
+* [Week 1](bug-bounty-challenges/week-1.md)
+* [Week 2](bug-bounty-challenges/week-2.md)
 
 ## Book Club
 

@@ -14,3 +14,4 @@ Professional Affiliations
 * COMPTIA Security+
 * Splunk Certified Core Power User
 * AWS Certified Cloud Practitioner
+* Cribl Certified User
