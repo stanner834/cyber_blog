@@ -1,6 +1,6 @@
 # Raspberry Pi project ideas
 
-Raspberry Pi's are a great start to learn IT. I started doing some fun projects with them while studying for my Network+ and Security+ certifications. It helped tremendously in understanding foundational topics in Networking, Cybersecurity, and honestly, just how the internet works. Here are a list of some of my projects I have completed, I hope they can serve as some ideas for your learning journey in the future.
+Raspberry Pi's are a great start to learning IT. I started doing some fun projects with them while studying for my Network+ and Security+ certifications. It helped tremendously in understanding foundational topics in networking, cybersecurity, and how the internet works. Here is a list of some of the projects I have completed. I hope they can serve as ideas for your learning journey in the future.
 
 
 

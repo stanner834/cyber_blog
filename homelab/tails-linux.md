@@ -1,6 +1,6 @@
 # Tails Linux
 
-For "Snowden" level security, sometimes I will browse using Tails Linux. Link below.
+For "Snowden" level security, I sometimes browse using Tails Linux. Link below.
 
 
 
