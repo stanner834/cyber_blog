@@ -24,6 +24,7 @@
 ## AI
 
 * [Fabric](ai/fabric.md)
+* [Custom prompt: Lessons Learned](ai/custom-prompt-lessons-learned.md)
 
 ## Bug Bounty challenges
 
