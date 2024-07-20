@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About me](README.md)
+* [Page](README.md)
+* [About me](<README (1).md>)
 
 ## Homelab
 
