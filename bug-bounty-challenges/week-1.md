@@ -1,14 +1,14 @@
 # Week 1
 
-The first week of learning how to become a Bug Bounty hunter consisted of research, gathering materials, and building out my environment.&#x20;
+The first week of learning to become a bug bounty hunter consisted of research, gathering materials, and building out my environment.
 
+## Completed items:
 
+* Set up a Vulnhub hacking lab using Docker
+* Downloaded the Kali Linux image and configured the virtual machine
+* Performed research and read relevant information
 
-## Completed items
-
-* Set up Vulnhub hacking lab using Docker
-* Downloaded Kali Linux image and configured the Virtual Machine
-* Performed research and read relevant information.
+References:
 
 
 
