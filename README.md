@@ -19,9 +19,9 @@ layout:
 
 # About me
 
-Hey there, I am Sam, a cybersecurity professional specializing in detection engineering. I am passionate about collaboration, solving complex problems, and philosophy.
+Hey there, I am Sam, a Cybersecurity professional specializing in Detection Engineering. I am passionate about collaboration, solving complex problems, and philosophy.
 
-I have embarked on a journey of continuous learning and blogging about what I do. I have learned that to grow and solve complex challenges, we need to foster a community of collaboration, dedication, and a desire to protect what we have worked so hard to create. I hope this blog can serve as a stepping stone for others to learn more about growing as a cybersecurity professional, as many of these projects were the building blocks and foundation of my career.
+I have embarked on a journey of continuous learning and blogging about what I do. I have learned that to grow and solve complex challenges, we need to foster a community of collaboration, dedication, and a desire to protect what we have worked so hard to create. I hope this blog can serve as a stepping stone for others to learn more about growing as a Cybersecurity professional, as many of these projects were the building blocks and foundation of my career.
 
 
 
