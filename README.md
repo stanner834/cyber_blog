@@ -44,6 +44,9 @@ I have embarked on a journey of continuous learning and blogging about what I do
 * Splunk Enterprise Security
 * Google Chronicle
 * Cribl Stream
+* Tanium EDR
 * Python
 * SQL
+* Sigma
+* YARA
 
