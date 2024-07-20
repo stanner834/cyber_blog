@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/samuraiinblue.png
+coverY: 229.7493333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # About me
 
 Hey there, I am Sam, a cybersecurity professional specializing in detection engineering. I am passionate about collaboration, solving complex problems, and philosophy.
