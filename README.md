@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/samuraiinblue.png
-coverY: 229.7493333333333
+cover: .gitbook/assets/work1.jpg
+coverY: 184
 layout:
   cover:
     visible: true
