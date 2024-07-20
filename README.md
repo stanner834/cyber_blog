@@ -1,20 +1,6 @@
 ---
 cover: .gitbook/assets/samuraiinblue.jpeg
-coverY: 102.83333333333333
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+coverY: 241.6316440049444
 ---
 
 # About me
