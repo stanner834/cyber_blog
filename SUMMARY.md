@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
-* [About me](<README (1).md>)
+* [About me](README.md)
 
 ## Homelab
 
@@ -12,7 +11,7 @@
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
 * [Virtual Box setup](homelab/virtual-box-setup.md)
-* [Cribl lab](homelab/cribl-lab.md)
+* [Cribl Edge to Cribl Stream](homelab/cribl-edge-to-cribl-stream.md)
 
 ## Detection Engineering
 
