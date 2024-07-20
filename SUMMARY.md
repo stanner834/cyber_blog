@@ -26,6 +26,10 @@
 * [Fabric](ai/fabric.md)
 * [Custom prompt: Lessons Learned](ai/custom-prompt-lessons-learned.md)
 
+## HTB
+
+* [Explosion](htb/explosion.md)
+
 ## Bug Bounty challenges
 
 * [Week 1](bug-bounty-challenges/week-1.md)
