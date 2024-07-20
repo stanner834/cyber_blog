@@ -33,4 +33,4 @@
 
 ## Book Club
 
-* [IT](book-club/it.md)
+* [Information Technology](book-club/information-technology.md)
