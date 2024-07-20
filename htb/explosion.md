@@ -1,11 +1,6 @@
----
-description: >-
-  This week, I will try to complete HTB Starting Point "Explosion," and for a
-  push task, try to pwn a machine that is not considered a Starting Point
-  machine.
----
-
 # Explosion
+
+In this lab, we will be exposing vulnerable remote access tools on a Windows machine.
 
 Perform a simple NMAP scan using the`-sV` switch.
 
@@ -21,7 +16,9 @@ Once the remote desktop connection is established, you will find the flag locate
 
 
 
+References:
 
+{% file src="../.gitbook/assets/explosion_lab_guide.pdf" %}
 
 
 
