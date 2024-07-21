@@ -11,4 +11,7 @@ description: >-
 ## Completed items:
 
 * Explosion HTB starting point
+* Lame retired machine
+
+&#x20;
 
