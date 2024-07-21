@@ -29,6 +29,7 @@
 ## HTB
 
 * [Explosion](htb/explosion.md)
+* [Lame](htb/lame.md)
 
 ## Bug Bounty challenges
 
