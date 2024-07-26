@@ -8,10 +8,6 @@ The first week of learning to become a bug bounty hunter consisted of research, 
 * Downloaded the Kali Linux image and configured the virtual machine
 * Performed research and read relevant information
 
-References:
-
-
-
 ## References:
 
 {% embed url="https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/" %}
