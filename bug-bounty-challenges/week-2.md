@@ -6,9 +6,7 @@ description: >-
 
 # Week 2
 
-
-
-## Completed items:
+Completed items:
 
 * Explosion HTB starting point
 * Lame retired machine
