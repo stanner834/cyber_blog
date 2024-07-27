@@ -28,9 +28,9 @@
 
 ## HTB
 
-* [Linux cheat sheet](htb/linux-cheat-sheet.md)
 * [Explosion](htb/explosion.md)
 * [Lame](htb/lame.md)
+* [Linux cheat sheet](htb/linux-cheat-sheet.md)
 
 ## Bug Bounty challenges
 
