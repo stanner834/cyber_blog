@@ -36,11 +36,11 @@
 * [Tools used](htb/tools-used.md)
 * [tmux cheat sheet](htb/tmux-cheat-sheet.md)
 
-## Bug Bounty challenges
+## Road to CPTS
 
-* [Week 1](bug-bounty-challenges/week-1.md)
-* [Week 2](bug-bounty-challenges/week-2.md)
-* [Week 3](bug-bounty-challenges/week-3.md)
+* [Week 1](road-to-cpts/week-1.md)
+* [Week 2](road-to-cpts/week-2.md)
+* [Week 3](road-to-cpts/week-3.md)
 
 ## Book Club
 
