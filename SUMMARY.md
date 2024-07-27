@@ -11,7 +11,7 @@
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
 * [Virtual Box setup](homelab/virtual-box-setup.md)
-* [Cribl Edge to Cribl Stream](homelab/cribl-edge-to-cribl-stream.md)
+* [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
 
 ## Detection Engineering
 
