@@ -1,6 +1,6 @@
 # Lame
 
-In this blog, we explore the process of identifying and exploiting vulnerabilities in Samba using the CVE-2007-2447 exploit. By leveraging Metasploit, we demonstrate how to gain unauthorized access to a server through the manipulation of shell metacharacters. This post provides a detailed, step-by-step guide on executing the exploit and securing the compromised server.
+In this blog, we explore the process of identifying and exploiting vulnerabilities in Samba using the CVE-2007-2447 exploit. By leveraging Metasploit, we demonstrate how to gain unauthorized access to a server through the manipulation of shell metacharacters. This post provides a detailed, step-by-step guide on executing the exploit and capturing the root flag.
 
 Perform an nmap scan using the -sV switch. We see we get a response with multiple services up and running on the target server.
 
