@@ -1,5 +1,7 @@
 # Cloud Resume Challenge - AWS
 
+Use this link to navigate to my project: [https://djp5iudtdudt5.cloudfront.net](https://djp5iudtdudt5.cloudfront.net) &#x20;
+
 ## Overview
 
 The Cloud Resume Project is a hands-on initiative designed to help individuals build and showcase their cloud computing skills through the creation of a professional resume website hosted on the cloud. This project provides a practical and tangible way for participants to demonstrate their expertise in cloud technologies and gain valuable experience in deploying and managing web applications.

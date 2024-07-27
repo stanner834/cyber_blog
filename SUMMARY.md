@@ -4,14 +4,14 @@
 
 ## Homelab
 
-* [Network setup](homelab/network-setup.md)
+* [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
 * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
 * [Tails Linux](homelab/tails-linux.md)
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
+* [Network setup](homelab/network-setup.md)
 * [Virtual Box setup](homelab/virtual-box-setup.md)
-* [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
 
 ## Detection Engineering
 
