@@ -2,7 +2,7 @@
 
 In this blog post, we dive into web server security, focusing on the importance of web enumeration and directory busting in penetration testing. Using tools like Nmap and Gobuster, we explore methods to uncover hidden web directories and potential vulnerabilities in a target system. We also show how to exploit a default Nginx installation, highlighting the critical need to secure admin panels with strong credentials.
 
-First, let's begin by testing our connection with the target server using the ping tool.
+First, let's begin by testing our connection with the target server using the `ping` tool.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,12 +43,6 @@ In your browser, navigate to the `admin.php` site and you will see a new web pag
 Username: Admin
 Password: Admin
 ```
-
-
-
-
-
-
 
 References:
 
