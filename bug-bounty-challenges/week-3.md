@@ -1,3 +1,6 @@
 # Week 3
 
-HTB trainings: Preignition Starting point, Penetration testing process modeule
+* `Preignition` Starting point
+* Began `Penetration testing` process module
+* Began working through `Jerry` HTB machine
+
