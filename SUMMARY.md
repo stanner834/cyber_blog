@@ -31,8 +31,10 @@
 * [Explosion](htb/explosion.md)
 * [Lame](htb/lame.md)
 * [Preignition](htb/preignition.md)
+* [Jerry](htb/jerry.md)
 * [Linux cheat sheet](htb/linux-cheat-sheet.md)
 * [Tools used](htb/tools-used.md)
+* [tmux cheat sheet](htb/tmux-cheat-sheet.md)
 
 ## Bug Bounty challenges
 
