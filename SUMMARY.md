@@ -36,6 +36,7 @@
 
 * [Week 1](bug-bounty-challenges/week-1.md)
 * [Week 2](bug-bounty-challenges/week-2.md)
+* [Week 3](bug-bounty-challenges/week-3.md)
 
 ## Book Club
 
