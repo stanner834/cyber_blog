@@ -32,7 +32,7 @@
 * [Lame](htb/lame.md)
 * [Preignition](htb/preignition.md)
 * [Linux cheat sheet](htb/linux-cheat-sheet.md)
-* [Tools](htb/tools.md)
+* [Tools used](htb/tools-used.md)
 
 ## Bug Bounty challenges
 
