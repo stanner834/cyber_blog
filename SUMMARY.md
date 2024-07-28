@@ -4,13 +4,13 @@
 
 ## Homelab
 
+* [Network topology](homelab/network-topology.md)
 * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
 * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
 * [Tails Linux](homelab/tails-linux.md)
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
-* [Home lab Network topology](homelab/home-lab-network-topology.md)
 
 ## Detection Engineering
 
