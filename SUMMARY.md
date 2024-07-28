@@ -35,11 +35,13 @@
 ## Road to CPTS
 
 * [Tools used](htb/tools-used.md)
-* [tmux cheat sheet](htb/tmux-cheat-sheet.md)
-* [Linux cheat sheet](htb/linux-cheat-sheet.md)
-* [Week 1](road-to-cpts/week-1.md)
-* [Week 2](road-to-cpts/week-2.md)
-* [Week 3](road-to-cpts/week-3.md)
+* [Cheat sheets](road-to-cpts/cheat-sheets/README.md)
+  * [tmux cheat sheet](road-to-cpts/cheat-sheets/tmux-cheat-sheet.md)
+  * [Linux cheat sheet](road-to-cpts/cheat-sheets/linux-cheat-sheet.md)
+* [Weekly progress](road-to-cpts/weekly-progress/README.md)
+  * [Week 1](road-to-cpts/weekly-progress/week-1.md)
+  * [Week 2](road-to-cpts/weekly-progress/week-2.md)
+  * [Week 3](road-to-cpts/weekly-progress/week-3.md)
 
 ## Book Club
 
