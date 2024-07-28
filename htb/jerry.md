@@ -1,36 +1,34 @@
 # Jerry
 
-Jerry is a machine that uses Apache Tomcat, an open-source application designed to serve web pages developed in Java. We are going to exploit this machine using Metasploit.
+Jerry is a machine that uses `Apache Tomcat`, an open-source application designed to serve web pages developed in `Java`. We are going to exploit this machine using Metasploit.
 
-First, let's confirm we have a connection to the target machine by using the ping tool, and then check for running applications using nmap.
+First, let's confirm we have a connection to the target machine by using the `ping` tool, and then check for running applications using `nmap`.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-We can use the -sV switch for version detection.
+You can use the `-sC` switch for scripts to identify potential vulnerabilities, configuration issues, and additional service details. The `-sV` switch is for service version detection, which will send probes to the ports and compare them against a database.
 
-You can use the -sC switch for scripts to identify potential vulnerabilities, configuration issues, and additional service details. The -sV switch is for service version detection, which will send probes to the ports and compare them against a database.
-
-If we type the web page in our browser, we access the Tomcat webpage. Make sure to add :8080 at the end to specify the correct port running on the web server.
+If we type the web page in our browser, we access the Tomcat webpage. Make sure to add `:8080` at the end to specify the correct port running on the web server.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-If we click the "server status" page, we get prompted to add credentials. In this case, Admin:Admin works, but it takes us to a web page that contains no information beneficial to our pentest.
+If we click the "server status" page, we get prompted to add credentials. In this case, `Admin:Admin` works, but it takes us to a web page that contains no information beneficial to our pentest.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-We can try to click "Manager App" or "Host Manager" and utilize the same credentials, but that does not work, as seen by the 403 status code.
+We can try to click "Manager App" or "Host Manager" and utilize the same credentials, but that does not work, as seen by the `403` status code.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-For a fun exercise, you can run Burp Suite as a proxy and catch the HTTP GET request. Inside the request will be the credentials (Admin:Admin) you entered in the "Authorization" header, encoded as base64. If you decode it in Burp as base64, you will see Admin:Admin. Pretty cool.
+For a fun exercise, you can run Burp Suite as a proxy and catch the `HTTP GET` request. Inside the request will be the credentials `Admin:Admin` you entered in the `Authorization` header, encoded as base64. If you decode it in `Burp` as base64, you will see `Admin:Admin`. Pretty cool.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-Obviously, this website already uses weak credentials, so we are going to try to brute force the password on this website using a tool called Hydra.
+Obviously, this website already uses weak credentials, so we are going to try to brute force the password on this website using a tool called `Hydra`.
 
 
 
@@ -48,7 +46,7 @@ We can use the `-C` switch to specify the brute force password list we would lik
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-Run the command, and we identify credentials that work with the `/manager/html` page. It is odd that Hydra determined Admin:Admin works, as it actually does not. Anyways...it looks like `tomcat:s3cret` will work. Try these credentials on the "Manager App" link on the website.
+Run the command, and we identify credentials that work with the `/manager/html` page. It is odd that Hydra determined `Admin:Admin` works, as it actually does not. Anyways...it looks like `tomcat:s3cret` will work. Try these credentials on the `Manager App` link on the website.
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,11 +71,11 @@ msf6 > exploit -j
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Deploy the war file in the "Manager App."
+Deploy the war file in the `Manager App`.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Unzip the folder in your directory, and grab the file ending in .jsp. Add the name of this file to the end of the URL in your web browser. This will execute your war file, and the reverse shell listening on your machine should catch the connection.
+Unzip the folder in your directory, and grab the file ending in `.jsp`. Add the name of this file to the end of the URL in your web browser. This will execute your war file, and the reverse shell listening on your machine should catch the connection.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +83,7 @@ Unzip the folder in your directory, and grab the file ending in .jsp. Add the na
 10.10.10.95:8080/tomcat1/dnawdram.jsp
 ```
 
-Go back to the Metasploit listener and check if a session has started.&#x20;
+Go back to the `Metasploit` listener and check if a session has started.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -102,18 +100,6 @@ cd Desktop
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Congrats! You have successfully completed Jerry.&#x20;
-
-
-
-
-
-
-
-
-
-
-
-
 
 References:
 
