@@ -1,14 +1,14 @@
 # Tools used
 
-`Gobuster`: Web directory enumeration tool.&#x20;
+`Gobuster: Web directory enumeration tool.`&#x20;
 
-Hydra:
+`Hydra:`
 
-BurpSuite:
+`BurpSuite:`
 
-msfvenom:
+`msfvenom:`
 
-Metasploit
+`Metasploit`
 
-Meterpretor:
+`Meterpretor:`
 
