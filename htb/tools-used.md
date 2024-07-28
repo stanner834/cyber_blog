@@ -6,3 +6,9 @@ Hydra:
 
 BurpSuite:
 
+msfvenom:
+
+Metasploit
+
+Meterpretor:
+
