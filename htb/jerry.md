@@ -12,17 +12,17 @@ If we type the web page in our browser, we access the Tomcat webpage. Make sure 
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-If we click the "server status" page, we get prompted to add credentials. In this case, `Admin:Admin` works, but it takes us to a web page that contains no information beneficial to our pentest.
+If we click the `Server Status` page, we get prompted to add credentials. In this case, `Admin:Admin` works, but it takes us to a web page that contains no information beneficial to our pentest.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-We can try to click "Manager App" or "Host Manager" and utilize the same credentials, but that does not work, as seen by the `403` status code.
+We can try to click `Manager App` or `Host Manager` and utilize the same credentials, but that does not work, as seen by the `403` status code.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-For a fun exercise, you can run Burp Suite as a proxy and catch the `HTTP GET` request. Inside the request will be the credentials `Admin:Admin` you entered in the `Authorization` header, encoded as base64. If you decode it in `Burp` as base64, you will see `Admin:Admin`. Pretty cool.
+For a fun exercise, you can run `Burp Suite` as a proxy and catch the `HTTP GET` request. Inside the request will be the credentials `Admin:Admin` you entered in the `Authorization` header, encoded as base64. If you decode it in `Burp` as base64, you will see `Admin:Admin`. Pretty cool.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
