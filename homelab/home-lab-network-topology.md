@@ -1,9 +1,9 @@
 # Home lab Network topology
 
-Physical connections:
+## Physical connections
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Virtual connections:
+## Virtual connections
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
