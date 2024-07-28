@@ -32,12 +32,12 @@
 * [Lame](htb/lame.md)
 * [Preignition](htb/preignition.md)
 * [Jerry](htb/jerry.md)
-* [Linux cheat sheet](htb/linux-cheat-sheet.md)
-* [Tools used](htb/tools-used.md)
-* [tmux cheat sheet](htb/tmux-cheat-sheet.md)
 
 ## Road to CPTS
 
+* [Tools used](road-to-cpts/tools-used.md)
+* [tmux cheat sheet](road-to-cpts/tmux-cheat-sheet.md)
+* [Linux cheat sheet](road-to-cpts/linux-cheat-sheet.md)
 * [Week 1](road-to-cpts/week-1.md)
 * [Week 2](road-to-cpts/week-2.md)
 * [Week 3](road-to-cpts/week-3.md)
