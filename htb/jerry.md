@@ -1,6 +1,6 @@
 # Jerry
 
-Jerry is a machine that uses `Apache Tomcat`, an open-source application designed to serve web pages developed in `Java`. We are going to exploit this machine using Metasploit.
+Jerry is a machine that uses `Apache Tomcat`, an open-source application designed to serve web pages developed in `Java`. We are going to exploit this machine using `Metasploit`.
 
 First, let's confirm we have a connection to the target machine by using the `ping` tool, and then check for running applications using `nmap`.
 
