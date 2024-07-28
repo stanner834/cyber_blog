@@ -10,7 +10,7 @@
 * [Tails Linux](homelab/tails-linux.md)
 * [Pi-Hole](homelab/pi-hole.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
-* [Network topology](homelab/network-topology.md)
+* [Home lab Network topology](homelab/home-lab-network-topology.md)
 
 ## Detection Engineering
 
