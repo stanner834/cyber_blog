@@ -31,6 +31,7 @@
 * [Lame](htb/lame.md)
 * [Preignition](htb/preignition.md)
 * [Jerry](htb/jerry.md)
+* [MongoDB](htb/mongodb.md)
 
 ## Road to CPTS
 
