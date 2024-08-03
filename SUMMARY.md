@@ -15,6 +15,8 @@
 ## Detection Engineering
 
 * [Research](detection-engineering/research.md)
+* [Best practices](detection-engineering/best-practices.md)
+* [DE lifecycle](detection-engineering/de-lifecycle.md)
 
 ## Cloud projects
 
