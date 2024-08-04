@@ -1,5 +1,5 @@
 # My Mission
 
-* Promote entrepreneurial ship to help communities
+* Promote entrepreneurialship to help communities
 * Creativity
 * Personal branding
