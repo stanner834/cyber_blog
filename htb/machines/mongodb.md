@@ -10,7 +10,7 @@ Let's start by testing our connection using ping and running nmap to determine t
 * `-sV`: Attempts to determine the version of the service running on a port.
 * `--min-rate`: Specifies the minimum number of packets that Nmap should send per second; it speeds up the scan as the number increases.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 We have identified MongoDB running on port `27017`. We can try to connect to this DB using the MongoDB application. First, we need to download it from the internet:
 
@@ -20,11 +20,11 @@ tar xvf mongodb-linux-x86_64-3.4.7.tgz
 cd mongodb-linux-x86_64-3.4.7/bin
 ```
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 When we try to connect to the database without any credentials, we are granted access. We can start using the `mongo` shell to interact with the database. MongoDB utilizes a JavaScript interface for communication. We can start by running `show dbs`.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 use sensitive_information;
@@ -33,7 +33,7 @@ show collections;
 
 This will list all the current collections in the database. We identify a `flag` collection, which we can read to complete this machine.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 References:
 

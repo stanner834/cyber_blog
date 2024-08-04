@@ -20,9 +20,14 @@
 * [Best practices](detection-engineering/best-practices.md)
 * [Detection Engineering blueprint](detection-engineering/detection-engineering-blueprint.md)
 
-## Cloud projects
+## HTB
 
-* [Cloud Resume Challenge - AWS](cloud-projects/readme-copy.md)
+* [Machines](htb/machines/README.md)
+  * [MongoDB](htb/machines/mongodb.md)
+  * [Explosion](htb/machines/explosion.md)
+  * [Lame](htb/machines/lame.md)
+  * [Preignition](htb/machines/preignition.md)
+  * [Jerry](htb/machines/jerry.md)
 
 ## AI/ML
 
@@ -34,13 +39,9 @@
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
 
-## HTB
+## Cloud projects
 
-* [Explosion](htb/explosion.md)
-* [Lame](htb/lame.md)
-* [Preignition](htb/preignition.md)
-* [Jerry](htb/jerry.md)
-* [MongoDB](htb/mongodb.md)
+* [Cloud Resume Challenge - AWS](cloud-projects/readme-copy.md)
 
 ## Road to CPTS
 
