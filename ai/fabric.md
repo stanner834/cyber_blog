@@ -4,6 +4,4 @@ I utilize a tool called "Fabric" by Daniel Miessler. It is the most useful AI to
 
 The tool allows you to use "Patterns" or advanced prompts. These prompts are open-source and extremely well built. If you are trying to get a jump start into actually using AI, this is your perfect chance.
 
-
-
 {% embed url="https://github.com/danielmiessler/fabric" %}

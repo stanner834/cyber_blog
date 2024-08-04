@@ -39,14 +39,20 @@ I have embarked on a journey of continuous learning and blogging about what I do
 * <mark style="color:blue;">`AWS Certified Cloud Practitioner`</mark>
 * <mark style="color:blue;">`Cribl Certified User`</mark>
 
-## Top skills and tools
+## Top skills
+
+* <mark style="color:blue;">`Detection engineering`</mark>
+* <mark style="color:blue;">`Threat research`</mark>
+* <mark style="color:blue;">`Breach and Attack simulation`</mark>
+* <mark style="color:blue;">`Project management`</mark>
+
+## Top tools
 
 * <mark style="color:blue;">`Splunk Enterprise Security`</mark>
-* <mark style="color:blue;">`Google Chronicle`</mark>
-* <mark style="color:blue;">`Cribl Stream`</mark>
+* <mark style="color:blue;">`Google Sec-Ops`</mark>
+* <mark style="color:blue;">`Cribl`</mark>
 * <mark style="color:blue;">`Tanium EDR`</mark>
+* <mark style="color:blue;">`Sigma rules`</mark>
 * <mark style="color:blue;">`Python`</mark>
+* <mark style="color:blue;">`YARA-L 2.0`</mark>
 * <mark style="color:blue;">`SQL`</mark>
-* <mark style="color:blue;">`Sigma`</mark>
-* <mark style="color:blue;">`YARA`</mark>
-
