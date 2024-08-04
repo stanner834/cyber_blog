@@ -16,7 +16,7 @@
 ## Detection Engineering
 
 * [Threat research](detection-engineering/threat-research/README.md)
-  * [8/3/2024 report](detection-engineering/threat-research/8-3-2024-report.md)
+  * [Week of 8/5/24 report](detection-engineering/threat-research/week-of-8-5-24-report.md)
 * [Best practices](detection-engineering/best-practices.md)
 * [Detection Engineering blueprint](detection-engineering/detection-engineering-blueprint.md)
 
