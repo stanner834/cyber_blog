@@ -29,6 +29,7 @@
   * [Lame](htb/machines/lame.md)
   * [Preignition](htb/machines/preignition.md)
   * [Jerry](htb/machines/jerry.md)
+  * [Netmon](htb/machines/netmon.md)
 
 ## AI/ML
 
