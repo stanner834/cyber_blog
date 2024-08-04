@@ -11,7 +11,7 @@
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
 * [Tails Linux](homelab/tails-linux.md)
 * [Pi-Hole](homelab/pi-hole.md)
-* [Atomic Red team](homelab/atomic-red-team.md)
+* [Install Atomic Red team](homelab/install-atomic-red-team.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
 
 ## Detection Engineering
