@@ -7,3 +7,8 @@
 ## Development
 
 * Pragmatic Programmer
+
+## Productivity
+
+* Digital minimalism
+* The ruthless elimation of hurry
