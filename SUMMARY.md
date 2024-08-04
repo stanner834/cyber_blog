@@ -14,9 +14,10 @@
 
 ## Detection Engineering
 
-* [Research](detection-engineering/research.md)
+* [Threat research](detection-engineering/threat-research/README.md)
+  * [8/3/2024](detection-engineering/threat-research/8-3-2024.md)
 * [Best practices](detection-engineering/best-practices.md)
-* [DE lifecycle](detection-engineering/de-lifecycle.md)
+* [Detection Engineering blueprint](detection-engineering/detection-engineering-blueprint.md)
 
 ## Cloud projects
 
