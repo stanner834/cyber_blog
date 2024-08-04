@@ -56,4 +56,6 @@
 
 ## Book Club
 
-* [Information Technology](book-club/information-technology.md)
+* [Lists](book-club/lists.md)
+* [Summaries](book-club/summaries/README.md)
+  * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
