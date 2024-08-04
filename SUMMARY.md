@@ -28,8 +28,11 @@
 
 * [ML pathway](ai-ml/ml-pathway/README.md)
   * [Page 1](ai-ml/ml-pathway/page-1.md)
-* [Fabric](ai/fabric.md)
-* [Custom prompt: Lessons Learned](ai/custom-prompt-lessons-learned.md)
+* [Tools](ai-ml/tools/README.md)
+  * [Fabric](ai-ml/tools/fabric.md)
+  * [Ollama](ai-ml/tools/ollama.md)
+* [Custom prompts](ai-ml/custom-prompts/README.md)
+  * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
 
 ## HTB
 
