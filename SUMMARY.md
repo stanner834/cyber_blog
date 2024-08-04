@@ -47,8 +47,8 @@
 
 * [Tools used](htb/tools-used.md)
 * [Cheat sheets](road-to-cpts/cheat-sheets/README.md)
-  * [tmux cheat sheet](road-to-cpts/cheat-sheets/tmux-cheat-sheet.md)
-  * [Linux cheat sheet](road-to-cpts/cheat-sheets/linux-cheat-sheet.md)
+  * [tmux](road-to-cpts/cheat-sheets/tmux.md)
+  * [Linux](road-to-cpts/cheat-sheets/linux.md)
 * [Weekly progress](road-to-cpts/weekly-progress/README.md)
   * [Week 1](road-to-cpts/weekly-progress/week-1.md)
   * [Week 2](road-to-cpts/weekly-progress/week-2.md)
