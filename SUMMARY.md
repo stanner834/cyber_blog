@@ -30,7 +30,7 @@
   * [Page 1](ai-ml/ml-pathway/page-1.md)
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
-  * [Ollama](ai-ml/tools/ollama.md)
+  * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
 
