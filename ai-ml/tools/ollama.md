@@ -12,7 +12,7 @@ Run `ollama run llama3.1:8b` to pull the latest Llama3 model from Ollama.
 
 If you are currently running[ Fabric](fabric.md), you can use `fabric --listmodels` to see all available models for the application.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Example command: `echo "What is the meaning of life?" | fabric --pattern ai --model llama3.1:8b --stream`&#x20;
 
