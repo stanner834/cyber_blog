@@ -1,8 +1,8 @@
-# Information Technology
+# Lists
 
 ## Cybersecurity
 
-* Blue team Handbook
+* Blue team handbook
 
 ## Development
 
