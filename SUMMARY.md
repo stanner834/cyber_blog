@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About me](README.md)
+* [My Mission](my-mission.md)
 
 ## Homelab
 
@@ -23,10 +24,12 @@
 
 * [Cloud Resume Challenge - AWS](cloud-projects/readme-copy.md)
 
-## AI
+## AI/ML
 
-* [Fabric](ai/fabric.md)
-* [Custom prompt: Lessons Learned](ai/custom-prompt-lessons-learned.md)
+* [ML pathway](ai-ml/ml-pathway/README.md)
+  * [Page 1](ai-ml/ml-pathway/page-1.md)
+* [Fabric](ai-ml/fabric.md)
+* [Custom prompt: Lessons Learned](ai-ml/custom-prompt-lessons-learned.md)
 
 ## HTB
 

@@ -27,26 +27,26 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 ## Social Media:
 
-[https://github.com/stanner834](https://github.com/stanner834)
+{% embed url="https://github.com/stanner834" %}
 
-[https://www.linkedin.com/in/samuelatanner/](https://www.linkedin.com/in/samuelatanner/)
+{% embed url="https://www.linkedin.com/in/samuelatanner/" %}
 
 ## Professional affiliations:
 
-* CompTIA Security+
-* CompTIA Network+
-* Splunk Certified Core Power User
-* AWS Certified Cloud Practitioner
-* Cribl Certified User
+* <mark style="color:blue;">`CompTIA Security+`</mark>
+* <mark style="color:blue;">`CompTIA Network+`</mark>
+* <mark style="color:blue;">`Splunk Certified Core Power User`</mark>
+* <mark style="color:blue;">`AWS Certified Cloud Practitioner`</mark>
+* <mark style="color:blue;">`Cribl Certified User`</mark>
 
 ## Top skills and tools
 
-* Splunk Enterprise Security
-* Google Chronicle
-* Cribl Stream
-* Tanium EDR
-* Python
-* SQL
-* Sigma
-* YARA
+* <mark style="color:blue;">`Splunk Enterprise Security`</mark>
+* <mark style="color:blue;">`Google Chronicle`</mark>
+* <mark style="color:blue;">`Cribl Stream`</mark>
+* <mark style="color:blue;">`Tanium EDR`</mark>
+* <mark style="color:blue;">`Python`</mark>
+* <mark style="color:blue;">`SQL`</mark>
+* <mark style="color:blue;">`Sigma`</mark>
+* <mark style="color:blue;">`YARA`</mark>
 
