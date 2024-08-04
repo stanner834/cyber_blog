@@ -1,9 +1,8 @@
 # Research
 
-Magma / CMMI
+{% embed url="https://www.inoreader.com/all_articles" %}
+My personal Threat Intel feed
+{% endembed %}
 
-MITRE ATT\&CK
 
-MITRE ATLAS
 
-Detection Engineer lifecycle
