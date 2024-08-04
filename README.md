@@ -55,4 +55,5 @@ I have embarked on a journey of continuous learning and blogging about what I do
 * <mark style="color:blue;">`Sigma rules`</mark>
 * <mark style="color:blue;">`Python`</mark>
 * <mark style="color:blue;">`YARA-L 2.0`</mark>
+* <mark style="color:blue;">`Linux & Windows OS`</mark>
 * <mark style="color:blue;">`SQL`</mark>
