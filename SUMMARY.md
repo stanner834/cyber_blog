@@ -13,6 +13,7 @@
 * [Pi-Hole](homelab/pi-hole.md)
 * [Install Atomic Red team](homelab/install-atomic-red-team.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
+* [Splunk](homelab/splunk.md)
 
 ## Detection Engineering
 
