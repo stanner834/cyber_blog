@@ -8,11 +8,11 @@ To start, navigate to "Sources" in Cribl Stream and add a source. By using 0.0.0
 
 Next, we must add a new source in our Cribl Edge instance. Navigate there and click "Exec" source. This allows you to run a command via CMD and display the logs. Type in a unique name, a command you would like to run, and an interval of your choice.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding a source in Cribl Edge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Adding a source in Cribl Edge</p></figcaption></figure>
 
 Optionally, you can add event breakers to your source.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Add an event breaker</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add an event breaker</p></figcaption></figure>
 
 In our Cribl Edge instance, we can add a destination to ensure the logs get sent to the Cribl Stream instance. Fill out the form accordingly, making sure to use the same authentication token generated in the Cribl Stream instance.
 

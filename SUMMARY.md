@@ -6,6 +6,9 @@
 ## Homelab
 
 * [Network topology](homelab/network-topology.md)
+* [Splunk install](homelab/splunk-install.md)
+* [Zeek & Suricata install | Cribl ingestion](homelab/zeek-and-suricata-install-or-cribl-ingestion.md)
+* [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
 * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
 * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
 * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -13,7 +16,6 @@
 * [Pi-Hole](homelab/pi-hole.md)
 * [Install Atomic Red team](homelab/install-atomic-red-team.md)
 * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
-* [Splunk](homelab/splunk.md)
 
 ## Detection Engineering
 

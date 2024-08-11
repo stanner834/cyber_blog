@@ -1,4 +1,4 @@
-# Splunk
+# Splunk install
 
 Install CIM data model
 
@@ -8,7 +8,7 @@ Get Cribl stream data
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,6 +53,16 @@ Get Cribl stream data
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+
+
+stann@stann:\~$ wget -O splunkforwarder-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb "https://download.splunk.com/products/universalforwarder/releases/9.3.0/linux/splunkforwarder-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb" --2024-08-11 01:45:04-- https://download.splunk.com/products/universalforwarder/releases/9.3.0/linux/splunkforwarder-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb Resolving download.splunk.com (download.splunk.com)... 18.161.134.34, 18.161.134.21, 18.161.134.116, ... Connecting to download.splunk.com (download.splunk.com)|18.161.134.34|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 42488486 (41M) \[binary/octet-stream] Saving to: ‘splunkforwarder-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb’
+
+splunkforwarder-9. 100%\[================>] 40.52M 26.3MB/s in 1.5s
+
+2024-08-11 01:45:06 (26.3 MB/s) - ‘splunkforwarder-9.3.0-51ccf43db5bd-linux-2.6-amd64.deb’ saved \[42488486/42488486]
+
+stann@stann:\~$
 
 {% embed url="https://github.com/stanner834" %}
 
