@@ -44,7 +44,7 @@ alert icmp any any -> $HOME\_NET any (msg:"ICMP Ping"; sid:1; rev:1;)
 
 08/11/2024-13:57:40.156339 \[**] \[1:2100498:7] GPL ATTACK\_RESPONSE id check returned root \[**] \[Classification: Potentially Bad Traffic] \[Priority: 2] {TCP} 18.238.152.55:80 -> 192.168.1.208:60842 08/11/2024-13:58:10.339345 \[**] \[1:1:1] ICMP Ping \[**] \[Classification: (null)] \[Priority: 3] {ICMP} 142.250.115.138:0 -> 192.168.1.208:0
 
-
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
