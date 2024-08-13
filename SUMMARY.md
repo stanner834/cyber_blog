@@ -6,16 +6,21 @@
 ## Homelab
 
 * [Network topology](homelab/network-topology.md)
-* [Splunk install](homelab/splunk-install.md)
-* [Zeek & Suricata install | Cribl ingestion](homelab/zeek-and-suricata-install-or-cribl-ingestion.md)
-* [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
-* [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
-* [Cloudflare DDNS](homelab/cloudflare-ddns.md)
-* [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
-* [Tails Linux](homelab/tails-linux.md)
-* [Pi-Hole](homelab/pi-hole.md)
-* [Install Atomic Red team](homelab/install-atomic-red-team.md)
-* [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
+* [SIEM](homelab/siem/README.md)
+  * [Splunk setup & Purple teaming](homelab/siem/splunk-setup-and-purple-teaming.md)
+  * [Cribl Edge -> Splunk](homelab/siem/cribl-edge-greater-than-splunk.md)
+  * [Zeek & Suricata install | Cribl ingestion](homelab/siem/zeek-and-suricata-install-or-cribl-ingestion.md)
+  * [Cribl Edge -> Cribl Stream](homelab/siem/cribl-edge-greater-than-cribl-stream.md)
+  * [Enable Sysmon logs in Windows](homelab/siem/enable-sysmon-logs-in-windows.md)
+  * [Install Atomic Red team](homelab/siem/install-atomic-red-team.md)
+* [Raspberry Pi](homelab/raspberry-pi/README.md)
+  * [Cloudflare DDNS](homelab/raspberry-pi/cloudflare-ddns.md)
+  * [OpenVPN on Raspberry Pi](homelab/raspberry-pi/openvpn-on-raspberry-pi.md)
+  * [Pi-Hole](homelab/raspberry-pi/pi-hole.md)
+  * [Raspberry Pi project ideas](homelab/raspberry-pi/raspberry-pi-project-ideas.md)
+* [Privacy](homelab/privacy/README.md)
+  * [Kasm workspaces](homelab/privacy/kasm-workspaces.md)
+  * [Tails Linux](homelab/privacy/tails-linux.md)
 
 ## Detection Engineering
 
@@ -59,6 +64,7 @@
   * [Week 2](road-to-cpts/weekly-progress/week-2.md)
   * [Week 3](road-to-cpts/weekly-progress/week-3.md)
   * [Week 4](road-to-cpts/weekly-progress/week-4.md)
+  * [Week 5](road-to-cpts/weekly-progress/week-5.md)
 
 ## Book Club
 

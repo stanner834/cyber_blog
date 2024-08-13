@@ -4,5 +4,5 @@ Here is a helpful link for setting up OpenVPN on your Raspberry Pi. I currently 
 
 {% embed url="https://pimylifeup.com/raspberry-pi-vpn-server/" %}
 
-<figure><img src="../.gitbook/assets/raspberry_pi.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raspberry_pi.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
