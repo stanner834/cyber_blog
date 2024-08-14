@@ -13,6 +13,8 @@
   * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
   * [Enable Sysmon logs in Windows](homelab/siem/enable-sysmon-logs-in-windows.md)
   * [Install Atomic Red team](homelab/install-atomic-red-team.md)
+* [Risk Based Alerting (RBA)](homelab/risk-based-alerting-rba.md)
+* [Configuring Caldera (Breach and Attack Simulation)](homelab/configuring-caldera-breach-and-attack-simulation.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
