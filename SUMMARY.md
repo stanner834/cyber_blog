@@ -6,17 +6,16 @@
 ## Homelab
 
 * [Network topology](homelab/network-topology.md)
+* [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
 * [SIEM](homelab/siem/README.md)
   * [Splunk setup & Purple teaming](homelab/splunk-install.md)
   * [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
   * [Zeek & Suricata install | Cribl ingestion](homelab/zeek-and-suricata-install-or-cribl-ingestion.md)
   * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
-  * [Enable Sysmon logs in Windows](homelab/siem/enable-sysmon-logs-in-windows.md)
   * [Install Atomic Red team](homelab/install-atomic-red-team.md)
   * [S3 bucket](homelab/siem/s3-bucket.md)
-* [Installing Windows Universal Forwarder](homelab/installing-windows-universal-forwarder.md)
-* [Risk Based Alerting (RBA)](homelab/risk-based-alerting-rba.md)
-* [Configuring Caldera (Breach and Attack Simulation)](homelab/configuring-caldera-breach-and-attack-simulation.md)
+  * [Installing Windows Universal Forwarder with Sysmon](homelab/siem/installing-windows-universal-forwarder-with-sysmon.md)
+  * [Risk Based Alerting (RBA)](homelab/siem/risk-based-alerting-rba.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -25,7 +24,6 @@
 * [Privacy](homelab/privacy/README.md)
   * [Kasm workspaces](homelab/privacy/kasm-workspaces.md)
   * [Tails Linux](homelab/tails-linux.md)
-* [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
 
 ## Detection Engineering
 

