@@ -8,7 +8,7 @@ First, let's begin by testing our connection with the target server using the `p
 
 After a successful connection attempt, we can start the enumeration phase by using the `nmap` tool with the `-sV` switch for version detection. Note that to run these scans, you must use root privileges.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We have identified an Nginx web server running on port 80. Copy and paste the IP address into your web browser to access the web page.
 
