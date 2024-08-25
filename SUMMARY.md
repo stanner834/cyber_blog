@@ -6,15 +6,15 @@
 ## Homelab
 
 * [Network topology](homelab/network-topology.md)
-* [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
 * [SIEM](homelab/siem/README.md)
   * [Splunk install and configuration](homelab/siem/splunk-install-and-configuration.md)
-  * [Zeek & Suricata install | Cribl ingestion](homelab/zeek-and-suricata-install-or-cribl-ingestion.md)
-  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
   * [Installing Windows Universal Forwarder with Sysmon](homelab/siem/installing-windows-universal-forwarder-with-sysmon.md)
+  * [Zeek & Suricata install with Cribl ingestion](homelab/siem/zeek-and-suricata-install-with-cribl-ingestion.md)
+  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
   * [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
   * [Cribl -> Amazon S3 bucket](homelab/siem/cribl-greater-than-amazon-s3-bucket.md)
   * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
+* [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
