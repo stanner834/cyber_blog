@@ -1,6 +1,6 @@
 # Network topology
 
-Virtual connections
+Virtual connections (Update)
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 

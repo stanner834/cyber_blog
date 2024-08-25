@@ -8,13 +8,13 @@
 * [Network topology](homelab/network-topology.md)
 * [SIEM](homelab/siem/README.md)
   * [Splunk install and configuration](homelab/siem/splunk-install-and-configuration.md)
-  * [Zeek & Suricata install with Cribl ingestion](homelab/siem/zeek-and-suricata-install-with-cribl-ingestion.md)
-  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
+  * [Forwarding Sysmon logs to Splunk](homelab/siem/forwarding-sysmon-logs-to-splunk.md)
+  * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
   * [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
   * [Cribl -> Amazon S3 bucket](homelab/siem/cribl-greater-than-amazon-s3-bucket.md)
-  * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
-  * [Forwarding Sysmon logs to Splunk](homelab/siem/forwarding-sysmon-logs-to-splunk.md)
-* [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
+* [Test range](homelab/test-range/README.md)
+  * [Pfsense install and configuration](homelab/test-range/pfsense-install-and-configuration.md)
+  * [Install Atomic Red team](homelab/test-range/install-atomic-red-team.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -67,6 +67,7 @@
   * [Week 3](road-to-cpts/weekly-progress/week-3.md)
   * [Week 4](road-to-cpts/weekly-progress/week-4.md)
   * [Week 5](road-to-cpts/weekly-progress/week-5.md)
+  * [Week 6](road-to-cpts/weekly-progress/week-6.md)
 
 ## Book Club
 
