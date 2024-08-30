@@ -5,7 +5,6 @@
 
 ## Homelab
 
-* [Network topology](homelab/network-topology.md)
 * [SIEM](homelab/siem/README.md)
   * [Splunk install and configuration](homelab/siem/splunk-install-and-configuration.md)
   * [Forwarding Sysmon logs to Splunk](homelab/siem/forwarding-sysmon-logs-to-splunk.md)
@@ -13,8 +12,10 @@
   * [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
   * [Cribl -> Amazon S3 bucket](homelab/siem/cribl-greater-than-amazon-s3-bucket.md)
 * [Test range](homelab/test-range/README.md)
-  * [Pfsense install and configuration](homelab/test-range/pfsense-install-and-configuration.md)
-  * [Install Atomic Red team](homelab/test-range/install-atomic-red-team.md)
+  * [Network topology](homelab/test-range/network-topology.md)
+  * [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
+  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
+  * [Breach and Attack Simulation (BAS) with MITRE Caldera](homelab/test-range/breach-and-attack-simulation-bas-with-mitre-caldera.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -74,3 +75,13 @@
 * [Lists](book-club/lists.md)
 * [Summaries](book-club/summaries/README.md)
   * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
+* [Page](book-club/page.md)
+
+## Productivity
+
+* [Time blocking](productivity/time-blocking.md)
+* [Study techniques](productivity/study-techniques.md)
+
+## Runbooks
+
+* [Runbooks](runbooks/runbooks.md)
