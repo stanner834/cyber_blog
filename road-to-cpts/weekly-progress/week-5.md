@@ -1,3 +1,3 @@
 # Week 5
 
-* [SIEM](../../homelab/siem/) home lab work
+* [SIEM](../../homelab/siem-architecture/) home lab work

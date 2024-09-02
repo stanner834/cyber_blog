@@ -5,12 +5,12 @@
 
 ## Homelab
 
-* [SIEM](homelab/siem/README.md)
-  * [Splunk install and configuration](homelab/siem/splunk-install-and-configuration.md)
-  * [Forwarding Sysmon logs to Splunk](homelab/siem/forwarding-sysmon-logs-to-splunk.md)
-  * [Cribl Edge -> Cribl Stream](homelab/cribl-edge-greater-than-cribl-stream.md)
-  * [Cribl Edge -> Splunk](homelab/cribl-edge-greater-than-splunk.md)
-  * [Cribl -> Amazon S3 bucket](homelab/siem/cribl-greater-than-amazon-s3-bucket.md)
+* [SIEM Architecture](homelab/siem-architecture/README.md)
+  * [Splunk install and configuration](homelab/siem-architecture/splunk-install-and-configuration.md)
+  * [Forwarding Sysmon logs to Splunk](homelab/siem-architecture/forwarding-sysmon-logs-to-splunk.md)
+  * [Cribl Edge -> Cribl Stream](homelab/siem-architecture/cribl-edge-greater-than-cribl-stream.md)
+  * [Cribl Edge -> Splunk](homelab/siem-architecture/cribl-edge-greater-than-splunk.md)
+  * [Cribl -> Amazon S3 bucket](homelab/siem-architecture/cribl-greater-than-amazon-s3-bucket.md)
 * [Test range](homelab/test-range/README.md)
   * [Network topology](homelab/test-range/network-topology.md)
   * [Pfsense install and configuration](homelab/pfsense-install-and-configuration.md)
@@ -44,8 +44,6 @@
 
 ## AI/ML
 
-* [ML pathway](ai-ml/ml-pathway/README.md)
-  * [Page 1](ai-ml/ml-pathway/page-1.md)
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
