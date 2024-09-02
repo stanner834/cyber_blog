@@ -72,6 +72,6 @@ Navigate back to the S3 bucket, and you should see a folder containing your endp
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-You can always test by going to your destination and selecting the "Test," "Status," or "Live Data" tabs in that view.
+You can always test by going to "Destination" and selecting the "Test," "Status," or "Live Data" tabs in that view.
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
