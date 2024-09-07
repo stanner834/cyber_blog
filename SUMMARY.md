@@ -27,7 +27,8 @@
 
 ## Detection Engineering
 
-* [Content](detection-engineering/threat-research/README.md)
+* [Content](detection-engineering/content/README.md)
+  * [Detecting Discovery commands](detection-engineering/content/detecting-discovery-commands.md)
 * [Frameworks](detection-engineering/frameworks.md)
 * [Tools](detection-engineering/tools.md)
 * [Detection Engineering best practices](detection-engineering/detection-engineering-blueprint.md)

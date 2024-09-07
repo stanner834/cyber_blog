@@ -7,22 +7,22 @@ Refer to the Splunk installation and configuration guide to download a Universal
 First, download Sysmon using the following command: `curl -L -o Sysmon.zip https://download.sysinternals.com/files/Sysmon.zip`.\
 Extract the file using: `tar -xf Sysmon.zip`.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To install Sysmon on your machine, run the command: `sysmon.exe --accepteula -i`.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Next, we will configure the `inputs.conf` file to forward Sysmon logs to Splunk. One issue I encountered was that the Universal Forwarder did not have administrative rights on my system. Ensure that your Universal Forwarder is part of the Administrators group on your computer to allow these logs to be sent to your Splunk instance.
 
 Navigate to the `C:\Program Files\SplunkUniversalForwarder\etc\system\local` directory.\
 Edit your `inputs.conf` file using: `notepad.exe inputs.conf`.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, go to the `C:\Program Files\SplunkUniversalForwarder\bin` directory and run `splunk.exe restart` to restart the Universal Forwarder. After completing this step, go to your Splunk instance's search bar and enter `index=main source="WinEventLog:Microsoft-Windows-Sysmon/Operational"` to identify your Sysmon logs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Keep in mind that we are still using the default Sysmon configuration file from Microsoft. To look for specific log types or enable more events, you can use a custom configuration file. My favorite is from [SwiftOnSecurity's sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config).
 
