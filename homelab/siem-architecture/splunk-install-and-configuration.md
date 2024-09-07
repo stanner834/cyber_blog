@@ -6,7 +6,7 @@ This guide assumes that you already have Splunk installed on your machine and ca
 
 To start, go to "Forwarding and Receiving" under "Settings."
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select "Add new" under "Receive data."
 

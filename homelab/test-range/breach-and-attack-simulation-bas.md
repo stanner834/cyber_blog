@@ -6,29 +6,29 @@ We are going to use MITRE Caldera to run a few tests against a Windows 11 machin
 
 MITRE Caldera comes with preconfigured "Adversaries" that have a set of abilities. An ability within Caldera is a test script that performs a malicious action you would like to test on your machine. Many of the tests actually come from the Atomic Red Team repository. Within MITRE Caldera, you can review all abilities by selecting the "Ability" tab, and you can review all threat actors by clicking the "Adversaries" tab. One of the best aspects of MITRE Caldera is the ability to create your own abilities and adversaries, as it is open source. New adversaries can be created based on MITRE TTP mappings.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Caldera abilities</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Caldera abilities</p></figcaption></figure>
 
 To get started, let's select the "Discovery" Adversary profile.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
 
 Your screen should populate with all the abilities associated with this Adversary profile. From this pane, you have the option to add more abilities if you'd like. Next, let's click "Operations."
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 An operation is a test we create based on an adversary profile. To create a new operation, select "Create Operation."
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Name your operation and make sure to select the "Discovery" Adversary profile. From here, we can leave the rest of the settings as default and select "Start" to kick off the test on our machine (using the Sandcat agent we installed during the setup phase). There will be 12 total tests running from this threat actor.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can select "View Command" or "View Output" to get more details about what is seen in the terminal.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 After testing is complete, we can add any manual commands we would like. I am going to use "whoami" as another discovery command.
 
