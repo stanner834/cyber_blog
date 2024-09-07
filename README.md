@@ -57,3 +57,9 @@ I have embarked on a journey of continuous learning and blogging about what I do
 * <mark style="color:blue;">`YARA-L 2.0`</mark>
 * <mark style="color:blue;">`Linux & Windows OS`</mark>
 * <mark style="color:blue;">`SQL`</mark>
+
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/) license, and any code created by the author (Samuel Tanner) is under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
+
+{% hint style="info" %}
+**Disclaimer: All information on this website is for educational purposes only. Any action taken using the information on the website is strictly at your own risk. I will not be liable for any losses and/or damages to products with the use of the information on this website.**
+{% endhint %}
