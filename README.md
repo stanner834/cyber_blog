@@ -26,13 +26,13 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 
 
-## Social Media:
+## Social Media
 
 {% embed url="https://github.com/stanner834" %}
 
 {% embed url="https://www.linkedin.com/in/samuelatanner/" %}
 
-## Professional affiliations:
+## Professional affiliations
 
 * <mark style="color:blue;">`CompTIA Security+`</mark>
 * <mark style="color:blue;">`CompTIA Network+`</mark>
