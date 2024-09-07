@@ -12,6 +12,7 @@
   * [Cribl Edge -> Splunk](homelab/siem-architecture/cribl-edge-greater-than-splunk.md)
   * [Cribl -> Amazon S3 bucket](homelab/siem-architecture/cribl-greater-than-amazon-s3-bucket.md)
 * [Test range](homelab/test-range/README.md)
+  * [Breach and Attack Simulation (BAS)](homelab/test-range/breach-and-attack-simulation-bas.md)
   * [Test range topology](homelab/test-range/test-range-topology.md)
   * [Install MITRE Caldera](homelab/test-range/install-mitre-caldera.md)
   * [Install Atomic Red team](homelab/install-atomic-red-team.md)
@@ -26,10 +27,9 @@
 
 ## Detection Engineering
 
-* [Threat research](detection-engineering/threat-research/README.md)
-  * [Week of 8/5/24 report](detection-engineering/threat-research/week-of-8-5-24-report.md)
-* [Best practices](detection-engineering/best-practices.md)
-* [Detection Engineering blueprint](detection-engineering/detection-engineering-blueprint.md)
+* [Content](detection-engineering/content.md)
+* [Tools and Frameworks](detection-engineering/tools-and-frameworks.md)
+* [Detection Engineering best practices](detection-engineering/detection-engineering-best-practices.md)
 
 ## HTB
 
