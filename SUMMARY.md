@@ -2,6 +2,7 @@
 
 * [About me](README.md)
 * [My Mission](my-mission.md)
+* [License](license.md)
 
 ## Homelab
 
