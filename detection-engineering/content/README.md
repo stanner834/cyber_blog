@@ -2,7 +2,7 @@
 icon: folder-grid
 ---
 
-# Content
+# Purple team content
 
 I use Inforeader as my news feed for threat research. It works very well, and I have loved using it so far.
 
