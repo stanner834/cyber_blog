@@ -27,9 +27,10 @@
 
 ## Detection Engineering
 
-* [Content](detection-engineering/content.md)
-* [Tools and Frameworks](detection-engineering/tools-and-frameworks.md)
-* [Detection Engineering best practices](detection-engineering/detection-engineering-best-practices.md)
+* [Content](detection-engineering/threat-research/README.md)
+* [Frameworks](detection-engineering/frameworks.md)
+* [Tools](detection-engineering/tools.md)
+* [Detection Engineering best practices](detection-engineering/detection-engineering-blueprint.md)
 
 ## HTB
 
@@ -40,6 +41,20 @@
   * [Preignition](htb/machines/preignition.md)
   * [Jerry](htb/machines/jerry.md)
   * [Netmon](htb/machines/netmon.md)
+
+## Road to OCSP
+
+* [Tools](road-to-ocsp/tools.md)
+* [Cheat sheets](road-to-ocsp/cheat-sheets/README.md)
+  * [tmux](road-to-ocsp/cheat-sheets/tmux.md)
+  * [Linux](road-to-ocsp/cheat-sheets/linux.md)
+* [Weekly progress](road-to-ocsp/weekly-progress/README.md)
+  * [Week 1](road-to-ocsp/weekly-progress/week-1.md)
+  * [Week 2](road-to-ocsp/weekly-progress/week-2.md)
+  * [Week 3](road-to-ocsp/weekly-progress/week-3.md)
+  * [Week 4](road-to-ocsp/weekly-progress/week-4.md)
+  * [Week 5](road-to-ocsp/weekly-progress/week-5.md)
+  * [Week 6](road-to-ocsp/weekly-progress/week-6.md)
 
 ## AI/ML
 
@@ -53,32 +68,13 @@
 
 * [Cloud Resume Challenge - AWS](cloud-projects/readme-copy.md)
 
-## Road to CPTS
-
-* [Tools used](htb/tools-used.md)
-* [Cheat sheets](road-to-cpts/cheat-sheets/README.md)
-  * [tmux](road-to-cpts/cheat-sheets/tmux.md)
-  * [Linux](road-to-cpts/cheat-sheets/linux.md)
-* [Weekly progress](road-to-cpts/weekly-progress/README.md)
-  * [Week 1](road-to-cpts/weekly-progress/week-1.md)
-  * [Week 2](road-to-cpts/weekly-progress/week-2.md)
-  * [Week 3](road-to-cpts/weekly-progress/week-3.md)
-  * [Week 4](road-to-cpts/weekly-progress/week-4.md)
-  * [Week 5](road-to-cpts/weekly-progress/week-5.md)
-  * [Week 6](road-to-cpts/weekly-progress/week-6.md)
-
-## Book Club
+## BOOK CLUB
 
 * [Lists](book-club/lists.md)
 * [Summaries](book-club/summaries/README.md)
   * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
-* [Page](book-club/page.md)
 
 ## Productivity
 
 * [Time blocking](productivity/time-blocking.md)
 * [Study techniques](productivity/study-techniques.md)
-
-## Runbooks
-
-* [Runbooks](runbooks/runbooks.md)

@@ -1,2 +1,6 @@
+---
+icon: computer-classic
+---
+
 # Machines
 

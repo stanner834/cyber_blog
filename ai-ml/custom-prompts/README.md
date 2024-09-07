@@ -1,2 +1,6 @@
+---
+icon: terminal
+---
+
 # Custom prompts
 

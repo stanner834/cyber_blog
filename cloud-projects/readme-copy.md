@@ -1,3 +1,7 @@
+---
+icon: cloud
+---
+
 # Cloud Resume Challenge - AWS
 
 Use this link to navigate to my project: [https://djp5iudtdudt5.cloudfront.net](https://djp5iudtdudt5.cloudfront.net) &#x20;

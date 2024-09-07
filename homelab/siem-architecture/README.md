@@ -1,2 +1,6 @@
-# SIEM
+---
+icon: sitemap
+---
+
+# SIEM Architecture
 

@@ -1,2 +1,6 @@
+---
+icon: clock
+---
+
 # Time blocking
 

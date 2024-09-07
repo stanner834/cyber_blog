@@ -1,4 +1,5 @@
 ---
+icon: square-user
 cover: .gitbook/assets/work1.jpg
 coverY: 0
 layout:
