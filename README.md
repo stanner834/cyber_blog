@@ -42,7 +42,7 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 ## Top skills
 
-* <mark style="color:blue;">`Detection engineering`</mark>
+* <mark style="color:blue;">`Detection Engineering`</mark>
 * <mark style="color:blue;">`Threat research`</mark>
 * <mark style="color:blue;">`Breach and Attack simulation (BAS)`</mark>
 
@@ -50,7 +50,7 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 * <mark style="color:blue;">`Splunk Enterprise Security`</mark>
 * <mark style="color:blue;">`Google Sec-Ops`</mark>
-* <mark style="color:blue;">`Endpoint Detect & Response (EDR)`</mark>
+* <mark style="color:blue;">`Endpoint Detection & Response (EDR)`</mark>
 * <mark style="color:blue;">`Sigma rules`</mark>
 * <mark style="color:blue;">`Cribl Stream & Edge`</mark>
 * <mark style="color:blue;">`Python`</mark>

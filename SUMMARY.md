@@ -34,6 +34,7 @@
 * [Frameworks](detection-engineering/frameworks.md)
 * [Tools](detection-engineering/tools.md)
 * [Detection Engineering best practices](detection-engineering/detection-engineering-blueprint.md)
+* [Online resources](detection-engineering/online-resources.md)
 
 ## HTB
 
@@ -61,6 +62,7 @@
 
 ## AI/ML
 
+* [Learning roadmap](ai-ml/learning-roadmap.md)
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
