@@ -4,24 +4,24 @@ description: My go to Splunk resources
 
 # Splunk
 
-[https://community.splunk.com/](https://community.splunk.com/)
+{% embed url="https://community.splunk.com/" %}
 
-[https://usergroups.splunk.com/](https://usergroups.splunk.com/)
+{% embed url="https://usergroups.splunk.com/" %}
 
-[https://docs.splunk.com/Documentation](https://docs.splunk.com/Documentation)
+{% embed url="https://docs.splunk.com/Documentation" %}
 
-[https://lantern.splunk.com/](https://lantern.splunk.com/)
+{% embed url="https://lantern.splunk.com/" %}
 
-[https://www.splunk.com/en\_us/blog](https://www.splunk.com/en\_us/blog)
+{% embed url="https://www.splunk.com/en_us/blog" %}
 
-[https://research.splunk.com/](https://research.splunk.com/)
+{% embed url="https://research.splunk.com/" %}
 
-[https://github.com/splunk/rba](https://github.com/splunk/rba)
+{% embed url="https://github.com/splunk/rba" %}
 
-[https://splunk.github.io/rba/](https://splunk.github.io/rba/)
+{% embed url="https://splunk.github.io/rba/" %}
 
-[https://rba.community/](https://rba.community/)
+{% embed url="https://rba.community/" %}
 
-[https://conf.splunk.com/watch/conf-online.html#/](https://conf.splunk.com/watch/conf-online.html#/)
+{% embed url="https://conf.splunk.com/watch/conf-online.html#/" %}
 
-[https://docs.splunk.com/Documentation/Community/current/community/Chat](https://docs.splunk.com/Documentation/Community/current/community/Chat)
+{% embed url="https://docs.splunk.com/Documentation/Community/current/community/Chat" %}

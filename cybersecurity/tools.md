@@ -4,8 +4,6 @@ icon: shovel
 
 # Tools
 
-{% embed url="https://car.mitre.org/" %}
-
 {% embed url="https://bazaar.abuse.ch/" %}
 
 {% embed url="https://any.run/" %}
