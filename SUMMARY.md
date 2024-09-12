@@ -31,11 +31,13 @@
 * [Purple team content](detection-engineering/content/README.md)
   * [Detecting Discovery commands](detection-engineering/content/detecting-discovery-commands.md)
   * [Detection As Code (DAC)](detection-engineering/purple-team-content/detection-as-code-dac.md)
+* [Detection Engineering best practices](detection-engineering/detection-engineering-blueprint.md)
 * [Frameworks](detection-engineering/frameworks.md)
 * [Tools](detection-engineering/tools.md)
-* [Detection Engineering best practices](detection-engineering/detection-engineering-blueprint.md)
 * [Online resources](detection-engineering/online-resources/README.md)
+  * [MITRE](detection-engineering/online-resources/mitre.md)
   * [Splunk](detection-engineering/online-resources/splunk.md)
+  * [Podcasts](detection-engineering/online-resources/podcasts.md)
 
 ## HTB
 
