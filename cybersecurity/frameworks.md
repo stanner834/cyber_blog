@@ -20,6 +20,8 @@ icon: image
 
 {% embed url="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html" %}
 
+{% embed url="https://www.recordedfuture.com/blog/diamond-model-intrusion-analysis" %}
+
 {% embed url="https://www.nist.gov/cyberframework" %}
 
 {% embed url="https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf" %}
