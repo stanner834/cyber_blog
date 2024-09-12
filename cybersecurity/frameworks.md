@@ -31,3 +31,5 @@ icon: image
 {% embed url="https://github.com/k-bailey/detection-engineering-maturity-matrix" %}
 
 {% embed url="https://br0k3nlab.com/resources/zen-of-security-rules/" %}
+
+{% embed url="https://www.rapid7.com/fundamentals/what-is-continuous-threat-exposure-management-ctem/" %}
