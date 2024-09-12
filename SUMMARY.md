@@ -38,6 +38,7 @@
   * [MITRE](detection-engineering/online-resources/mitre.md)
   * [Splunk](detection-engineering/online-resources/splunk.md)
   * [Podcasts](detection-engineering/online-resources/podcasts.md)
+  * [Ethical Hacking](detection-engineering/online-resources/ethical-hacking.md)
 
 ## HTB
 

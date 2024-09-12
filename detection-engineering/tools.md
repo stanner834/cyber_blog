@@ -8,6 +8,14 @@ icon: shovel
 
 {% embed url="https://github.com/chronicle/detection-rules" %}
 
+{% embed url="https://bazaar.abuse.ch/" %}
+
+{% embed url="https://any.run/" %}
+
+{% embed url="https://detection.fyi/" %}
+
+{% embed url="https://github.com/BushidoUK/Ransomware-Tool-Matrix" %}
+
 {% embed url="https://attackevals.mitre-engenuity.org/" %}
 
 {% embed url="https://engage.mitre.org/" %}
