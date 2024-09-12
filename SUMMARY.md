@@ -32,14 +32,15 @@
   * [Detecting Discovery commands](cybersecurity/purple-team-content/detecting-discovery-commands.md)
   * [Detection As Code (DAC)](cybersecurity/purple-team-content/detection-as-code-dac.md)
 * [Detection Engineering best practices](cybersecurity/detection-engineering-best-practices.md)
+* [Use case repositories](cybersecurity/use-case-repositories.md)
 * [Frameworks](cybersecurity/frameworks.md)
 * [Tools](cybersecurity/tools.md)
 * [Online resources](cybersecurity/online-resources/README.md)
   * [MITRE](cybersecurity/online-resources/mitre.md)
   * [Splunk](cybersecurity/online-resources/splunk.md)
   * [Machine Learning](cybersecurity/online-resources/machine-learning.md)
-  * [Podcasts](cybersecurity/online-resources/podcasts.md)
   * [Ethical Hacking](cybersecurity/online-resources/ethical-hacking.md)
+  * [Podcasts](cybersecurity/online-resources/podcasts.md)
 
 ## HTB
 

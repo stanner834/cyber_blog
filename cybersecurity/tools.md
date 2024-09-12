@@ -4,15 +4,11 @@ icon: shovel
 
 # Tools
 
-{% embed url="https://github.com/SigmaHQ/sigma" %}
-
-{% embed url="https://github.com/chronicle/detection-rules" %}
+{% embed url="https://car.mitre.org/" %}
 
 {% embed url="https://bazaar.abuse.ch/" %}
 
 {% embed url="https://any.run/" %}
-
-{% embed url="https://detection.fyi/" %}
 
 {% embed url="https://github.com/BushidoUK/Ransomware-Tool-Matrix" %}
 
