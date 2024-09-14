@@ -18,15 +18,15 @@ In practice, Detection as Code is used to create and manage security detections 
 
 To begin, we will use the Sigma rule we created in "Detecting Discovery Commands" as an example of DaC.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Within source control, we can see the "Commit" button to commit changes to our Git branch. First, you must stage the changes on the right-hand side, choose a name for the commit message, and select "Commit."
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 After committing, we can sync the changes with our main remote branch.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 In my remote main branch, we can see the rule has been successfully synced.
 

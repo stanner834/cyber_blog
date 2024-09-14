@@ -12,10 +12,10 @@ It looks like we have a few Sysmon logs from our Windows machine, which we can u
 
 Using the Sigma extension in VSCode, we can create a new Sigma rule based on what we observed in Splunk.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Select "Sigma converter" to convert the query to a new backend.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Head on over to the next blog to see how we can utilize CI/CD to send this query to our GitHub repository.&#x20;

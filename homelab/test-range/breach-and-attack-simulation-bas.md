@@ -10,19 +10,19 @@ MITRE Caldera comes with preconfigured "Adversaries" that have a set of abilitie
 
 To get started, let's select the "Discovery" Adversary profile.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
 
 Your screen should populate with all the abilities associated with this Adversary profile. From this pane, you have the option to add more abilities if you'd like. Next, let's click "Operations."
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 An operation is a test we create based on an adversary profile. To create a new operation, select "Create Operation."
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Name your operation and make sure to select the "Discovery" Adversary profile. From here, we can leave the rest of the settings as default and select "Start" to kick off the test on our machine (using the Sandcat agent we installed during the setup phase). There will be 12 total tests running from this threat actor.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -50,6 +50,7 @@
   * [Lame](htb/machines/lame.md)
   * [Preignition](htb/machines/preignition.md)
   * [Jerry](htb/machines/jerry.md)
+  * [Synced](htb/machines/synced.md)
   * [Netmon](htb/machines/netmon.md)
 
 ## Road to OCSP
