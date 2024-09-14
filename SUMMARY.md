@@ -55,7 +55,7 @@
 
 ## Road to OCSP
 
-* [Tools](road-to-ocsp/tools.md)
+* [Exploit tool definitions](road-to-ocsp/exploit-tool-definitions.md)
 * [Cheat sheets](road-to-ocsp/cheat-sheets/README.md)
   * [tmux](road-to-ocsp/cheat-sheets/tmux.md)
   * [Linux](road-to-ocsp/cheat-sheets/linux.md)
