@@ -66,6 +66,8 @@
   * [Week 4](road-to-ocsp/weekly-progress/week-4.md)
   * [Week 5](road-to-ocsp/weekly-progress/week-5.md)
   * [Week 6](road-to-ocsp/weekly-progress/week-6.md)
+  * [Week 7](road-to-ocsp/weekly-progress/week-7.md)
+  * [Week 8](road-to-ocsp/weekly-progress/week-8.md)
 
 ## AI/ML
 
