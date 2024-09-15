@@ -1,4 +1,4 @@
-# Linux cheat sheet
+# Linux
 
 `cd:` Navigate the directory.
 

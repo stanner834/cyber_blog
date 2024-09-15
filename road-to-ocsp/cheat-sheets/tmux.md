@@ -1,4 +1,4 @@
-# tmux cheat sheet
+# tmux
 
 Here’s a list of common `tmux` commands and keybindings to help you manage your terminal sessions effectively:
 
