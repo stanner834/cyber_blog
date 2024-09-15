@@ -31,7 +31,9 @@
 
 * [Purple team content](cybersecurity/purple-team-content/README.md)
   * [Detecting Discovery commands](cybersecurity/purple-team-content/detecting-discovery-commands.md)
-  * [Detection As Code (DAC)](cybersecurity/purple-team-content/detection-as-code-dac.md)
+* [Detection As Code (DAC)](cybersecurity/detection-as-code-dac/README.md)
+  * [Sigma CI/CD](cybersecurity/detection-as-code-dac/sigma-ci-cd.md)
+  * [DAC with Elastic SIEM](cybersecurity/detection-as-code-dac/dac-with-elastic-siem.md)
 * [Detection Engineering best practices](cybersecurity/detection-engineering-best-practices.md)
 * [Use case repositories](cybersecurity/use-case-repositories.md)
 * [Frameworks](cybersecurity/frameworks.md)
@@ -77,7 +79,6 @@
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
-* [Page](ai-ml/page.md)
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
   * [Create Sigma rules](ai-ml/custom-prompts/create-sigma-rules.md)
