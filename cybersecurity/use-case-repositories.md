@@ -6,6 +6,8 @@ icon: flag
 
 {% embed url="https://github.com/SigmaHQ/sigma" %}
 
+{% embed url="https://github.com/elastic/detection-rules" %}
+
 {% embed url="https://research.splunk.com/" %}
 
 {% embed url="https://github.com/chronicle/detection-rules" %}

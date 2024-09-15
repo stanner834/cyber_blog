@@ -54,21 +54,21 @@
   * [Synced](htb/machines/synced.md)
   * [Netmon](htb/machines/netmon.md)
 
-## Road to OCSP
+## Road to OSCP
 
-* [Exploit tool definitions](road-to-ocsp/exploit-tool-definitions.md)
-* [Cheat sheets](road-to-ocsp/cheat-sheets/README.md)
-  * [tmux](road-to-ocsp/cheat-sheets/tmux.md)
-  * [Linux](road-to-ocsp/cheat-sheets/linux.md)
-* [Weekly progress](road-to-ocsp/weekly-progress/README.md)
-  * [Week 1](road-to-ocsp/weekly-progress/week-1.md)
-  * [Week 2](road-to-ocsp/weekly-progress/week-2.md)
-  * [Week 3](road-to-ocsp/weekly-progress/week-3.md)
-  * [Week 4](road-to-ocsp/weekly-progress/week-4.md)
-  * [Week 5](road-to-ocsp/weekly-progress/week-5.md)
-  * [Week 6](road-to-ocsp/weekly-progress/week-6.md)
-  * [Week 7](road-to-ocsp/weekly-progress/week-7.md)
-  * [Week 8](road-to-ocsp/weekly-progress/week-8.md)
+* [Exploit tool definitions](road-to-oscp/exploit-tool-definitions.md)
+* [Cheat sheets](road-to-oscp/cheat-sheets/README.md)
+  * [tmux](road-to-oscp/cheat-sheets/tmux.md)
+  * [Linux](road-to-oscp/cheat-sheets/linux.md)
+* [Weekly progress](road-to-oscp/weekly-progress/README.md)
+  * [Week 1](road-to-oscp/weekly-progress/week-1.md)
+  * [Week 2](road-to-oscp/weekly-progress/week-2.md)
+  * [Week 3](road-to-oscp/weekly-progress/week-3.md)
+  * [Week 4](road-to-oscp/weekly-progress/week-4.md)
+  * [Week 5](road-to-oscp/weekly-progress/week-5.md)
+  * [Week 6](road-to-oscp/weekly-progress/week-6.md)
+  * [Week 7](road-to-oscp/weekly-progress/week-7.md)
+  * [Week 8](road-to-oscp/weekly-progress/week-8.md)
 
 ## AI/ML
 
