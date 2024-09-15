@@ -7,6 +7,7 @@
 ## Homelab
 
 * [SIEM Architecture](homelab/siem-architecture/README.md)
+  * [ELK installation](homelab/siem-architecture/elk-installation.md)
   * [Splunk install and configuration](homelab/siem-architecture/splunk-install-and-configuration.md)
   * [Forwarding Sysmon logs to Splunk](homelab/siem-architecture/forwarding-sysmon-logs-to-splunk.md)
   * [Cribl Edge -> Cribl Stream](homelab/siem-architecture/cribl-edge-greater-than-cribl-stream.md)
@@ -71,7 +72,8 @@
 
 ## AI/ML
 
-* [Learning roadmap](ai-ml/learning-roadmap.md)
+* [Learning roadmap](ai-ml/learning-roadmap/README.md)
+  * [Linear Algebra - Basics for Machine Learning](ai-ml/learning-roadmap/linear-algebra-basics-for-machine-learning.md)
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
