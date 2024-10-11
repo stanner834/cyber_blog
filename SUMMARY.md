@@ -54,6 +54,7 @@
   * [Preignition](htb/machines/preignition.md)
   * [Jerry](htb/machines/jerry.md)
   * [Synced](htb/machines/synced.md)
+  * [Sequel](htb/machines/sequel.md)
   * [Netmon](htb/machines/netmon.md)
 
 ## Road to OSCP
@@ -71,6 +72,8 @@
   * [Week 6](road-to-ocsp/weekly-progress/week-6.md)
   * [Week 7](road-to-ocsp/weekly-progress/week-7.md)
   * [Week 8](road-to-ocsp/weekly-progress/week-8.md)
+  * [Week 11](road-to-oscp/weekly-progress/week-11.md)
+  * [Week 12](road-to-oscp/weekly-progress/week-12.md)
 
 ## AI/ML
 
