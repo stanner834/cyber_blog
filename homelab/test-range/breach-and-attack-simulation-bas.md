@@ -10,7 +10,7 @@ MITRE Caldera comes with preconfigured "Adversaries" that have a set of abilitie
 
 To get started, let's select the "Discovery" Adversary profile.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption><p>Adversary profiles</p></figcaption></figure>
 
 Your screen should populate with all the abilities associated with this Adversary profile. From this pane, you have the option to add more abilities if you'd like. Next, let's click "Operations."
 

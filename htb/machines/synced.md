@@ -17,7 +17,7 @@ In this command:
 
 When the command completes, we see that **port 873** is open, which is the default port for `rsync`.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Understanding Rsync
 
@@ -29,7 +29,7 @@ rsync [OPTION] … [USER@]HOST::SRC [DEST]
 
 Rsync transfers files using a remote connection and spawns a receiver process on the host, making it possible to exploit if misconfigured. You can review the available rsync commands on the [official man page](https://linux.die.net/man/1/rsync).
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Listing Available Directories
 
@@ -64,4 +64,3 @@ rsync rsync://<target_ip>/public/flag.txt /path/to/local/destination/
 ```
 
 This command will sync the flag file from the public directory on the target machine to your local destination.
-
