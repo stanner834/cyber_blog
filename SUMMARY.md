@@ -26,6 +26,7 @@
 * [Privacy](homelab/privacy/README.md)
   * [Kasm workspaces](homelab/privacy/kasm-workspaces.md)
   * [Tails Linux](homelab/tails-linux.md)
+  * [Whonix](homelab/privacy/whonix.md)
 
 ## Cybersecurity
 
@@ -34,13 +35,14 @@
 * [Detection As Code (DAC)](cybersecurity/detection-as-code-dac/README.md)
   * [Sigma CI/CD](cybersecurity/detection-as-code-dac/sigma-ci-cd.md)
   * [DAC with Elastic SIEM](cybersecurity/detection-as-code-dac/dac-with-elastic-siem.md)
-* [Detection Engineering best practices](cybersecurity/detection-engineering-best-practices/README.md)
+* [Detection Engineering](cybersecurity/detection-engineering-best-practices/README.md)
   * [Establishing a Detection Engineering program](cybersecurity/detection-engineering-best-practices/establishing-a-detection-engineering-program.md)
   * [Detection-in-Depth](cybersecurity/detection-engineering-best-practices/detection-in-depth.md)
   * [Detection Spectrum](cybersecurity/detection-engineering-best-practices/detection-spectrum.md)
   * [Funnel of fidelity](cybersecurity/detection-engineering-best-practices/funnel-of-fidelity.md)
   * [Capability Abstraction](cybersecurity/detection-engineering-best-practices/capability-abstraction.md)
   * [Detection Development Lifecycle](cybersecurity/detection-engineering-best-practices/detection-development-lifecycle.md)
+  * [Elastic DEBMM](cybersecurity/detection-engineering-best-practices/elastic-debmm.md)
 * [Use case repositories](cybersecurity/use-case-repositories.md)
 * [Frameworks](cybersecurity/frameworks.md)
 * [Tools](cybersecurity/tools.md)
