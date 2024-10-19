@@ -122,3 +122,9 @@
 
 * [Time blocking](productivity/time-blocking.md)
 * [Study techniques](productivity/study-techniques.md)
+
+## LEARNING PROCESS
+
+* [Problem solving](learning-process/problem-solving.md)
+* [Asking questions](learning-process/asking-questions.md)
+* [Setting goals](learning-process/setting-goals.md)
