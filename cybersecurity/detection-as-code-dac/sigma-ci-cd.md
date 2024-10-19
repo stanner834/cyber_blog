@@ -1,4 +1,4 @@
-# Detection As Code (DAC)
+# Sigma CI/CD
 
 Detection as Code (DaC) is the practice of writing, managing, and maintaining security detection rules and logic in a version-controlled, code-like format. Similar to how infrastructure is defined and managed as code (Infrastructure as Code), Detection as Code applies software development principles to security detections, allowing teams to create, test, and deploy detection rules in a consistent, scalable, and automated manner.
 
@@ -18,21 +18,21 @@ In practice, Detection as Code is used to create and manage security detections 
 
 To begin, we will use the Sigma rule we created in "Detecting Discovery Commands" as an example of DaC.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Within source control, we can see the "Commit" button to commit changes to our Git branch. First, you must stage the changes on the right-hand side, choose a name for the commit message, and select "Commit."
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After committing, we can sync the changes with our main remote branch.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In my remote main branch, we can see the rule has been successfully synced.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clone my GitHub repository to use my Detection Engineering content:
 

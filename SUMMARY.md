@@ -52,6 +52,8 @@
   * [Machine Learning](cybersecurity/online-resources/machine-learning.md)
   * [Ethical Hacking](cybersecurity/online-resources/ethical-hacking.md)
   * [Podcasts](cybersecurity/online-resources/podcasts.md)
+  * [Threat Reports](cybersecurity/online-resources/threat-reports.md)
+  * [Detection Engineering articles](cybersecurity/online-resources/detection-engineering-articles.md)
 
 ## HTB
 
@@ -62,6 +64,8 @@
   * [Preignition](htb/machines/preignition.md)
   * [Jerry](htb/machines/jerry.md)
   * [Synced](htb/machines/synced.md)
+  * [Appointment](htb/machines/appointment.md)
+  * [Blue](htb/machines/blue.md)
   * [Sequel](htb/machines/sequel.md)
   * [Netmon](htb/machines/netmon.md)
 
@@ -72,6 +76,8 @@
   * [tmux](road-to-ocsp/cheat-sheets/tmux.md)
   * [Linux](road-to-ocsp/cheat-sheets/linux.md)
 * [Weekly progress](road-to-ocsp/weekly-progress/README.md)
+  * [Skill sheet #1 - Assessment (9/28/2024)](road-to-oscp/weekly-progress/skill-sheet-1-assessment-9-28-2024.md)
+  * [Skill Sheet #2 (Continuous)](road-to-oscp/weekly-progress/skill-sheet-2-continuous.md)
   * [Week 1](road-to-ocsp/weekly-progress/week-1.md)
   * [Week 2](road-to-ocsp/weekly-progress/week-2.md)
   * [Week 3](road-to-ocsp/weekly-progress/week-3.md)
@@ -80,8 +86,15 @@
   * [Week 6](road-to-ocsp/weekly-progress/week-6.md)
   * [Week 7](road-to-ocsp/weekly-progress/week-7.md)
   * [Week 8](road-to-ocsp/weekly-progress/week-8.md)
+  * [Week 9](road-to-oscp/weekly-progress/week-9.md)
+  * [Week 10](road-to-oscp/weekly-progress/week-10.md)
   * [Week 11](road-to-oscp/weekly-progress/week-11.md)
   * [Week 12](road-to-oscp/weekly-progress/week-12.md)
+
+## Scripts
+
+* [Python](scripts/python/README.md)
+  * [Elastic DAC pipeline](scripts/python/elastic-dac-pipeline.md)
 
 ## AI/ML
 
