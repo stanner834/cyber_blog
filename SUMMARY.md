@@ -18,7 +18,7 @@
   * [Test range topology](homelab/test-range/test-range-topology.md)
   * [Install MITRE Caldera](homelab/test-range/install-mitre-caldera.md)
   * [Install Atomic Red team](homelab/install-atomic-red-team.md)
-  * [WannaCry ransomware drop](homelab/test-range/wannacry-ransomware-drop.md)
+  * [WannaCry ransomware execution](homelab/test-range/wannacry-ransomware-execution.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
