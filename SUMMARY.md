@@ -102,10 +102,10 @@
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
+  * [Using Ollama & Fabric to build Sigma rules](ai-ml/tools/using-ollama-and-fabric-to-build-sigma-rules.md)
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
   * [Create Sigma rules](ai-ml/custom-prompts/create-sigma-rules.md)
-* [Using Ollama & Fabric to build Sigma rules](ai-ml/using-ollama-and-fabric-to-build-sigma-rules.md)
 
 ## Cloud projects
 
@@ -116,6 +116,7 @@
 * [Lists](book-club/lists.md)
 * [Summaries](book-club/summaries/README.md)
   * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
+  * [The Cuckoo's egg](book-club/summaries/the-cuckoos-egg.md)
 
 ## Productivity
 

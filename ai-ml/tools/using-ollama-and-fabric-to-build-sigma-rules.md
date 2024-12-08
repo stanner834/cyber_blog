@@ -1,6 +1,6 @@
 # Using Ollama & Fabric to build Sigma rules
 
-In this blog we are going to learn how to use an oper source LLM (Ollama) to build SIgma rules. First we will run tests, analyze the logs in Splunk, and run a command to build our sigma from the Splunk raw log we identified.&#x20;
+In this blog we are going to learn how to use an oper source LLM (Ollama) to build SIgma rules. First we will run tests, analyze the logs in Splunk, and run a command to build our sigma from the Splunk raw log we identified.
 
 Step 1: Collect Data
 
@@ -17,7 +17,7 @@ Start by gathering detailed network information from your Windows machine using 
 5. **`net config`**\
    View the configuration of the local network services, including network-related settings.
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Analyze raw Logs in Splunk
 
@@ -29,11 +29,11 @@ index=* netsh interface show interface | table _raw
 
 This command searches for logs within the specified index and displays the raw log data in a table format. Copy the raw log data for the next step.
 
-#### [Step 3: Install and Configure Fabric](tools/fabric.md)
+#### [Step 3: Install and Configure Fabric](fabric.md)
 
-To automate the process of creating Sigma rules, you need to have Fabric installed and configured. Fabric is an automation tool that can streamline various tasks.&#x20;
+To automate the process of creating Sigma rules, you need to have Fabric installed and configured. Fabric is an automation tool that can streamline various tasks.
 
-#### [Step 4: Install Ollama](tools/run-ollama-locally.md)
+#### [Step 4: Install Ollama](run-ollama-locally.md)
 
 Ensure that Ollama is installed. Ollama is used to build Sigma rules from raw log data. Refer to the installation instructions to ensure Ollama is correctly configured on your machine.
 
@@ -52,10 +52,10 @@ This command performs the following actions:
 * **`--model llama3.1:8b`**: Specifies the model to be used by Fabric for rule creation.
 * **`--stream`**: Indicates that the data should be processed in streaming mode.
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption><p>Using GPT-4o-Mini</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Using GPT-4o-Mini</p></figcaption></figure>
 
 After running the command, review the output of the model. You can then copy and paste the generated Sigma rule into your text editor or SIEM (Security Information and Event Management) system of choice.
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
