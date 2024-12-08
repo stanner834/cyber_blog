@@ -18,6 +18,7 @@
   * [Test range topology](homelab/test-range/test-range-topology.md)
   * [Install MITRE Caldera](homelab/test-range/install-mitre-caldera.md)
   * [Install Atomic Red team](homelab/install-atomic-red-team.md)
+  * [WannaCry ransomware drop](homelab/test-range/wannacry-ransomware-drop.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -98,8 +99,6 @@
 
 ## AI/ML
 
-* [Learning roadmap](ai-ml/learning-roadmap/README.md)
-  * [Linear Algebra - Basics for Machine Learning](ai-ml/learning-roadmap/linear-algebra-basics-for-machine-learning.md)
 * [Tools](ai-ml/tools/README.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)

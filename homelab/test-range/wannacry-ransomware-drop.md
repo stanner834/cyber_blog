@@ -1,0 +1,2 @@
+# WannaCry ransomware drop
+
