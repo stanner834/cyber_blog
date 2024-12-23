@@ -8,8 +8,5 @@ description: >-
 
 Completed items:
 
-* [`Explosion`](../../htb/machines/explosion.md) HTB starting point
-* [`Lame`](../../htb/machines/lame.md) retired machine
-
-&#x20;
-
+* [`Explosion`](../../../ctf/machines/explosion.md) HTB starting point
+* [`Lame`](../../../ctf/machines/lame.md) retired machine
