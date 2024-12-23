@@ -26,9 +26,7 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 ## Social Media
 
-{% embed url="https://www.youtube.com/@networking-dojo/videos" %}
-Youtube content
-{% endembed %}
+{% embed url="https://www.youtube.com/@networking-dojo" %}
 
 {% embed url="https://github.com/stanner834" %}
 
