@@ -32,7 +32,9 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 {% embed url="https://www.linkedin.com/in/samuelatanner/" %}
 
-Professional affiliations
+{% embed url="https://bsky.app/profile/networking-dojo.com" %}
+
+## Professional affiliations
 
 * <mark style="color:blue;">`CompTIA Security+`</mark>
 * <mark style="color:blue;">`CompTIA Network+`</mark>
