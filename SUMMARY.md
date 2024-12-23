@@ -100,6 +100,7 @@
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
   * [Create Sigma rules](ai-ml/custom-prompts/create-sigma-rules.md)
+  * [Detection robustness analyzer](ai-ml/custom-prompts/detection-robustness-analyzer.md)
 
 ## Cloud projects
 
