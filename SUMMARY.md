@@ -85,6 +85,7 @@
     * [Week 10](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-10.md)
     * [Week 11](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-11.md)
     * [Week 12](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-12.md)
+  * [Learning levels](road-to-oscp/weekly-progress/learning-levels.md)
 
 ## Scripts
 
