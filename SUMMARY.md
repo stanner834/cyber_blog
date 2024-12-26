@@ -71,6 +71,7 @@
   * [tmux](road-to-ocsp/cheat-sheets/tmux.md)
   * [Linux](road-to-ocsp/cheat-sheets/linux.md)
 * [Weekly progress](road-to-ocsp/weekly-progress/README.md)
+  * [Learning levels](road-to-oscp/weekly-progress/learning-levels.md)
   * [Skill sheet #1 - Assessment (9/28/2024)](road-to-oscp/weekly-progress/skill-sheet-1-assessment-9-28-2024.md)
   * [Skill Sheet #2 (Continuous)](road-to-oscp/weekly-progress/skill-sheet-2-continuous/README.md)
     * [Week 1](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-1.md)
@@ -85,7 +86,6 @@
     * [Week 10](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-10.md)
     * [Week 11](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-11.md)
     * [Week 12](road-to-oscp/weekly-progress/skill-sheet-2-continuous/week-12.md)
-  * [Learning levels](road-to-oscp/weekly-progress/learning-levels.md)
 
 ## Scripts
 
@@ -113,6 +113,7 @@
 * [Summaries](book-club/summaries/README.md)
   * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
   * [The Cuckoo's egg](book-club/summaries/the-cuckoos-egg.md)
+  * [Dune: Messiah](book-club/summaries/dune-messiah.md)
 
 ## Productivity
 
