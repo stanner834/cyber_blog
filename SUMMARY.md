@@ -31,7 +31,6 @@
 
 ## Cybersecurity
 
-* [Detection Engineering](cybersecurity/detection-engineering-best-practices.md)
 * [Purple team content](cybersecurity/purple-team-content/README.md)
   * [Detecting Discovery commands](cybersecurity/purple-team-content/detecting-discovery-commands.md)
 * [Detection As Code (DAC)](cybersecurity/detection-as-code-dac/README.md)
@@ -101,7 +100,6 @@
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
   * [Create Sigma rules](ai-ml/custom-prompts/create-sigma-rules.md)
-  * [Detection robustness analyzer](ai-ml/custom-prompts/detection-robustness-analyzer.md)
 
 ## Cloud projects
 
@@ -110,18 +108,3 @@
 ## BOOK CLUB
 
 * [Lists](book-club/lists.md)
-* [Summaries](book-club/summaries/README.md)
-  * [Blueteam handbook](book-club/summaries/blueteam-handbook.md)
-  * [The Cuckoo's egg](book-club/summaries/the-cuckoos-egg.md)
-  * [Dune: Messiah](book-club/summaries/dune-messiah.md)
-
-## Productivity
-
-* [Time blocking](productivity/time-blocking.md)
-* [Study techniques](productivity/study-techniques.md)
-
-## LEARNING PROCESS
-
-* [Problem solving](learning-process/problem-solving.md)
-* [Asking questions](learning-process/asking-questions.md)
-* [Setting goals](learning-process/setting-goals.md)

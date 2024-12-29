@@ -1,2 +1,0 @@
-# The Cuckoo's egg
-

@@ -1,2 +1,0 @@
-# Blueteam handbook
-
