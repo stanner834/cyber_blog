@@ -1,5 +1,6 @@
 ---
 icon: circle-three-quarters-stroke
+description: Spend 30 minutes - 1 hour working on each task.
 ---
 
 # Weekly progress
