@@ -20,6 +20,6 @@ GCIH, CTF, Programming language, AI/ML, Server homelab
 
 Level 3
 
-OSCP, Production homelab
+OSCP, CISSP, Production homelab, Reverse Engineering
 -----------------------------------------------------------------------------------
 ```
