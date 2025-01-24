@@ -1,6 +1,6 @@
 # DAC with Elastic SIEM
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@ python -m detection_rules validate-rule dac_custom_rules_dir/winRM.toml
 
 After running this command, you should see a "Rule validation successful" message appear.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Navigate to your custom rules folder and run the following command to import your rules:
 

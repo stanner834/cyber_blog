@@ -16,6 +16,6 @@ Using the Sigma extension in VSCode, we can create a new Sigma rule based on wha
 
 Select "Sigma converter" to convert the query to a new backend.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Head on over to the next blog to see how we can utilize CI/CD to send this query to our GitHub repository.
