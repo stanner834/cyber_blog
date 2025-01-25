@@ -124,6 +124,70 @@
     dmesg | grep -i kvm
     ```
 
-***
+Here are all the commands we ran in the course of this troubleshooting:
 
-These steps should help you enable nested virtualization in TrueNAS and troubleshoot any issues you encounter along the way. If you run into any specific error messages or behavior, checking the logs and experimenting with different configurations should lead you to a working solution.
+1.  **Checking if hardware virtualization is available on the system:**
+
+    ```bash
+    kvm-ok
+    ```
+2.  **Checking the dmesg log for virtualization support:**
+
+    ```bash
+    dmesg | grep -i kvm
+    ```
+3.  **Checking if the kvm-intel module is in use:**
+
+    ```bash
+    lsmod | grep kvm
+    ```
+4.  **Stopping all running VMs to free up the kvm-intel module:**
+
+    ```bash
+    qm list
+    qm stop <VMID>
+    ```
+5.  **Stopping Proxmox services related to KVM:**
+
+    ```bash
+    systemctl stop pvedaemon
+    systemctl stop qemu-server
+    ```
+6.  **Unloading the kvm-intel module:**
+
+    ```bash
+    modprobe -r kvm-intel
+    ```
+7.  **Reloading the kvm-intel module:**
+
+    ```bash
+    modprobe kvm-intel
+    ```
+8.  **Restarting Proxmox services:**
+
+    ```bash
+    systemctl start pvedaemon
+    systemctl start qemu-server
+    ```
+9.  **Verifying the virtualization flags:** For Intel CPUs:
+
+    ```bash
+    cat /proc/cpuinfo | grep vmx
+    ```
+
+    For AMD CPUs:
+
+    ```bash
+    cat /proc/cpuinfo | grep svm
+    ```
+10. **Checking the VM configuration file for the CPU settings:**
+
+    ```bash
+    echo "options kvm-intel nested=1" > /etc/modprobe.d/kvm-intel.conf
+    ```
+11. **Checking the TrueNAS logs for virtualization errors:** Navigate to the TrueNAS Web UI at: `System > Advanced > View Logs`.
+12. **Rebooting the VM:**
+
+    ```bash
+    qm reboot <VMID>
+    ```
