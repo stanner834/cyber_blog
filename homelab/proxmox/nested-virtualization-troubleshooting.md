@@ -190,4 +190,7 @@ Here are all the commands we ran in the course of this troubleshooting:
 
     ```bash
     qm reboot <VMID>
+
+    nano /etc/pve/qemu-server/102.conf
+
     ```
