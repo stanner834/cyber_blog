@@ -9,3 +9,9 @@ Learn about Proxmox networking
 Set up VLANs in Pfsense and internal networking
 
 Set up Security Onion
+
+Kasm workspaces
+
+VulnHub
+
+Bitwarded
