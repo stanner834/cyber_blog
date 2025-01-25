@@ -30,6 +30,7 @@
   * [Whonix](homelab/privacy/whonix.md)
 * [Proxmox](homelab/proxmox/README.md)
   * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
+  * [Nested Virtualization troubleshooting](homelab/proxmox/nested-virtualization-troubleshooting.md)
 
 ## Cybersecurity
 
