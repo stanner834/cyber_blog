@@ -29,7 +29,7 @@
   * [Tails Linux](homelab/tails-linux.md)
   * [Whonix](homelab/privacy/whonix.md)
 * [Proxmox](homelab/proxmox/README.md)
-  * [Using rclone with Backblaze](homelab/proxmox/using-rclone-with-backblaze.md)
+  * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
 
 ## Cybersecurity
 
