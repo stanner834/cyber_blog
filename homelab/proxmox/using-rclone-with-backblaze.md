@@ -1,4 +1,4 @@
-# Using rsync with Backblaze
+# Using rclone with Backblaze
 
 ## Setting Up Proxmox Backups with Rclone and Backblaze B2
 
@@ -20,7 +20,7 @@ Take note of the storage location for your VMs and containers, as this will be r
 
 ### Step 2: Edit the Proxmox Configuration File
 
-Edit the configuration file of the container you wish to back up:
+Edit the configuration file of the container you wish to use for backing up VM's:
 
 ```
 nano /etc/pve/lxc/101.conf
