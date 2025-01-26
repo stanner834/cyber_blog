@@ -1,3 +1,7 @@
+---
+description: 'Items needed: Hard drive, raspberry pi rack, new sd card for raspberry pi''s'
+---
+
 # Next steps
 
 Configure HDD passthru for NAS
@@ -10,8 +14,10 @@ Set up VLANs in Pfsense and internal networking
 
 Set up Security Onion
 
-Kasm workspaces
+**Kasm workspaces**
 
 VulnHub
 
-Bitwarded
+Bitwarden
+
+**Raspberry Pi game server**
