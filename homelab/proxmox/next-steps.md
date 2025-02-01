@@ -10,14 +10,16 @@ Configure nested VM's for NAS or Ubuntu (VirtualBox)
 
 Learn about Proxmox networking
 
-Set up VLANs in Pfsense and internal networking
+~~Pfsense internal networking~~
 
 Set up Security Onion
 
-**Kasm workspaces**
+~~**Kasm workspaces**~~
 
 VulnHub
 
 Bitwarden
 
-**Raspberry Pi game server**
+Raspberry Pi game server
+
+~~Configure internal malware lab with remnux and flare~~
