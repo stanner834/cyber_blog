@@ -7,3 +7,7 @@
 {% embed url="https://docs.remnux.org/install-distro/get-virtual-appliance#proxmox" %}
 
 {% embed url="https://github.com/mandiant/flare-vm" %}
+
+{% embed url="https://kravensecurity.com/malware-analysis-lab-environment/" %}
+Emphasis on firewall rules
+{% endembed %}
