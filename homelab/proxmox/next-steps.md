@@ -6,9 +6,9 @@ description: 'Items needed: Hard drive, raspberry pi rack, new sd card for raspb
 
 Configure HDD passthru for NAS
 
-Configure nested VM's for NAS or Ubuntu (VirtualBox)
+~~Configure nested VM's for NAS or Ubuntu (VirtualBox)~~
 
-Learn about Proxmox networking
+~~Learn about Proxmox networking~~
 
 ~~Pfsense internal networking~~
 
@@ -23,3 +23,5 @@ Bitwarden
 Raspberry Pi game server
 
 ~~Configure internal malware lab with remnux and flare~~
+
+Reconfigure ELK stack

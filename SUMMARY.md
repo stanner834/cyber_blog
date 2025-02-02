@@ -34,6 +34,7 @@
   * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
   * [Remnux and Flare VM installation](homelab/proxmox/remnux-and-flare-vm-installation.md)
   * [Nested Virtualization troubleshooting](homelab/proxmox/nested-virtualization-troubleshooting.md)
+  * [Pfsense Suricata and Zeek logs to ELK](homelab/proxmox/pfsense-suricata-and-zeek-logs-to-elk.md)
 
 ## Cybersecurity
 
