@@ -30,10 +30,10 @@
   * [Whonix](homelab/privacy/whonix.md)
 * [Proxmox](homelab/proxmox/README.md)
   * [Next steps](homelab/proxmox/next-steps.md)
-  * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
-  * [Nested Virtualization troubleshooting](homelab/proxmox/nested-virtualization-troubleshooting.md)
-  * [Remnux and Flare VM installation](homelab/proxmox/remnux-and-flare-vm-installation.md)
   * [inetsim on flare vm](homelab/proxmox/inetsim-on-flare-vm.md)
+  * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
+  * [Remnux and Flare VM installation](homelab/proxmox/remnux-and-flare-vm-installation.md)
+  * [Nested Virtualization troubleshooting](homelab/proxmox/nested-virtualization-troubleshooting.md)
 
 ## Cybersecurity
 

@@ -12,7 +12,7 @@ Learn about Proxmox networking
 
 ~~Pfsense internal networking~~
 
-Set up Security Onion
+~~Set up Security Onion~~
 
 ~~**Kasm workspaces**~~
 
