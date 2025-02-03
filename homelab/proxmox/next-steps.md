@@ -24,4 +24,4 @@ Raspberry Pi game server
 
 ~~Configure internal malware lab with remnux and flare~~
 
-Reconfigure ELK stack
+~~Reconfigure ELK stack~~
