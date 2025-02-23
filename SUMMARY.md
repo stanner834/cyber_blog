@@ -55,19 +55,6 @@
 * [Weekly progress](ctf/weekly-progress/README.md)
   * [Learning levels](ctf/weekly-progress/learning-levels.md)
   * [Skill sheet #1 - Assessment (9/28/2024)](ctf/weekly-progress/skill-sheet-1-assessment-9-28-2024.md)
-  * [Skill Sheet #2 (Continuous)](ctf/weekly-progress/skill-sheet-2-continuous/README.md)
-    * [Week 1](ctf/weekly-progress/skill-sheet-2-continuous/week-1.md)
-    * [Week 2](ctf/weekly-progress/skill-sheet-2-continuous/week-2.md)
-    * [Week 3](ctf/weekly-progress/skill-sheet-2-continuous/week-3.md)
-    * [Week 4](ctf/weekly-progress/skill-sheet-2-continuous/week-4.md)
-    * [Week 5](ctf/weekly-progress/skill-sheet-2-continuous/week-5.md)
-    * [Week 6](ctf/weekly-progress/skill-sheet-2-continuous/week-6.md)
-    * [Week 7](ctf/weekly-progress/skill-sheet-2-continuous/week-7.md)
-    * [Week 8](ctf/weekly-progress/skill-sheet-2-continuous/week-8.md)
-    * [Week 9](ctf/weekly-progress/skill-sheet-2-continuous/week-9.md)
-    * [Week 10](ctf/weekly-progress/skill-sheet-2-continuous/week-10.md)
-    * [Week 11](ctf/weekly-progress/skill-sheet-2-continuous/week-11.md)
-    * [Week 12](ctf/weekly-progress/skill-sheet-2-continuous/week-12.md)
 
 ## Cybersecurity
 
