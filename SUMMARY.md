@@ -6,6 +6,17 @@
 
 ## Homelab
 
+* [Test range](homelab/test-range/README.md)
+  * [Proxmox](homelab/test-range/proxmox/README.md)
+    * [Topology](homelab/test-range/proxmox/topology.md)
+    * [How to backup VM's in Proxmox](homelab/test-range/proxmox/how-to-backup-vms-in-proxmox.md)
+    * [Malware lab](homelab/test-range/proxmox/malware-lab/README.md)
+      * [inetsim on flare vm](homelab/test-range/proxmox/malware-lab/inetsim-on-flare-vm.md)
+      * [Remnux and Flare VM installation](homelab/test-range/proxmox/malware-lab/remnux-and-flare-vm-installation.md)
+  * [Breach and Attack Simulation (BAS)](homelab/test-range/breach-and-attack-simulation-bas.md)
+  * [Test range topology (Local)](homelab/test-range/test-range-topology.md)
+  * [Install MITRE Caldera](homelab/test-range/install-mitre-caldera.md)
+  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
 * [SIEM Architecture](homelab/siem-architecture/README.md)
   * [ELK installation](homelab/siem-architecture/elk-installation.md)
   * [Splunk install and configuration](homelab/siem-architecture/splunk-install-and-configuration.md)
@@ -13,12 +24,6 @@
   * [Cribl Edge -> Cribl Stream](homelab/siem-architecture/cribl-edge-greater-than-cribl-stream.md)
   * [Cribl Edge -> Splunk](homelab/siem-architecture/cribl-edge-greater-than-splunk.md)
   * [Cribl -> Amazon S3 bucket](homelab/siem-architecture/cribl-greater-than-amazon-s3-bucket.md)
-* [Test range](homelab/test-range/README.md)
-  * [Breach and Attack Simulation (BAS)](homelab/test-range/breach-and-attack-simulation-bas.md)
-  * [Test range topology](homelab/test-range/test-range-topology.md)
-  * [Install MITRE Caldera](homelab/test-range/install-mitre-caldera.md)
-  * [Install Atomic Red team](homelab/install-atomic-red-team.md)
-  * [WannaCry ransomware execution](homelab/test-range/wannacry-ransomware-execution.md)
 * [Raspberry Pi](homelab/raspberry-pi/README.md)
   * [Cloudflare DDNS](homelab/cloudflare-ddns.md)
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
@@ -28,32 +33,6 @@
   * [Kasm workspaces](homelab/privacy/kasm-workspaces.md)
   * [Tails Linux](homelab/tails-linux.md)
   * [Whonix](homelab/privacy/whonix.md)
-* [Proxmox](homelab/proxmox/README.md)
-  * [Next steps](homelab/proxmox/next-steps.md)
-  * [inetsim on flare vm](homelab/proxmox/inetsim-on-flare-vm.md)
-  * [How to backup VM's in Proxmox](homelab/proxmox/how-to-backup-vms-in-proxmox.md)
-  * [Remnux and Flare VM installation](homelab/proxmox/remnux-and-flare-vm-installation.md)
-  * [Nested Virtualization troubleshooting](homelab/proxmox/nested-virtualization-troubleshooting.md)
-  * [Pfsense Suricata and Zeek logs to ELK](homelab/proxmox/pfsense-suricata-and-zeek-logs-to-elk.md)
-
-## Cybersecurity
-
-* [Purple team content](cybersecurity/purple-team-content/README.md)
-  * [Detecting Discovery commands](cybersecurity/purple-team-content/detecting-discovery-commands.md)
-* [Detection As Code (DAC)](cybersecurity/detection-as-code-dac/README.md)
-  * [Sigma CI/CD](cybersecurity/detection-as-code-dac/sigma-ci-cd.md)
-  * [DAC with Elastic SIEM](cybersecurity/detection-as-code-dac/dac-with-elastic-siem.md)
-* [Use case repositories](cybersecurity/use-case-repositories.md)
-* [Frameworks](cybersecurity/frameworks.md)
-* [Tools](cybersecurity/tools.md)
-* [Online resources](cybersecurity/online-resources/README.md)
-  * [MITRE](cybersecurity/online-resources/mitre.md)
-  * [Splunk](cybersecurity/online-resources/splunk.md)
-  * [Machine Learning](cybersecurity/online-resources/machine-learning.md)
-  * [Ethical Hacking](cybersecurity/online-resources/ethical-hacking.md)
-  * [Podcasts](cybersecurity/online-resources/podcasts.md)
-  * [Threat Reports](cybersecurity/online-resources/threat-reports.md)
-  * [Detection Engineering articles](cybersecurity/online-resources/detection-engineering-articles.md)
 
 ## CTF
 
@@ -90,22 +69,42 @@
     * [Week 11](ctf/weekly-progress/skill-sheet-2-continuous/week-11.md)
     * [Week 12](ctf/weekly-progress/skill-sheet-2-continuous/week-12.md)
 
-## Scripts
+## Cybersecurity
 
-* [Python](scripts/python/README.md)
-  * [Elastic DAC pipeline](scripts/python/elastic-dac-pipeline.md)
+* [Purple team content](cybersecurity/purple-team-content/README.md)
+  * [Detecting Discovery commands](cybersecurity/purple-team-content/detecting-discovery-commands.md)
+* [Detection As Code (DAC)](cybersecurity/detection-as-code-dac/README.md)
+  * [Sigma CI/CD](cybersecurity/detection-as-code-dac/sigma-ci-cd.md)
+  * [DAC with Elastic SIEM](cybersecurity/detection-as-code-dac/dac-with-elastic-siem.md)
+* [Use case repositories](cybersecurity/use-case-repositories.md)
+* [Frameworks](cybersecurity/frameworks.md)
+* [Tools](cybersecurity/tools.md)
+* [Online resources](cybersecurity/online-resources/README.md)
+  * [MITRE](cybersecurity/online-resources/mitre.md)
+  * [Splunk](cybersecurity/online-resources/splunk.md)
+  * [Machine Learning](cybersecurity/online-resources/machine-learning.md)
+  * [Ethical Hacking](cybersecurity/online-resources/ethical-hacking.md)
+  * [Podcasts](cybersecurity/online-resources/podcasts.md)
+  * [Threat Reports](cybersecurity/online-resources/threat-reports.md)
+  * [Detection Engineering articles](cybersecurity/online-resources/detection-engineering-articles.md)
 
 ## AI/ML
 
 * [Tools](ai-ml/tools/README.md)
+  * [Open WebUI](ai-ml/tools/open-webui.md)
+  * [Browser WebUI](ai-ml/tools/browser-webui.md)
+  * [D.I.A.N.A](ai-ml/tools/d.i.a.n.a.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
   * [Using Ollama & Fabric to build Sigma rules](ai-ml/tools/using-ollama-and-fabric-to-build-sigma-rules.md)
-  * [D.I.A.N.A](ai-ml/tools/d.i.a.n.a.md)
-  * [Open WebUI](ai-ml/tools/open-webui.md)
 * [Custom prompts](ai-ml/custom-prompts/README.md)
   * [Lessons Learned](ai-ml/custom-prompts/lessons-learned.md)
   * [Create Sigma rules](ai-ml/custom-prompts/create-sigma-rules.md)
+
+## Scripts
+
+* [Python](scripts/python/README.md)
+  * [Elastic DAC pipeline](scripts/python/elastic-dac-pipeline.md)
 
 ## Cloud projects
 
