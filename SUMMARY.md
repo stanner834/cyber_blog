@@ -6,6 +6,9 @@
 
 ## Homelab
 
+* [Server rack](homelab/server-rack/README.md)
+  * [Pictures](homelab/server-rack/pictures.md)
+  * [Hardware and software inventory](homelab/server-rack/hardware-and-software-inventory.md)
 * [Test range](homelab/test-range/README.md)
   * [Proxmox](homelab/test-range/proxmox/README.md)
     * [Topology](homelab/test-range/proxmox/topology.md)
