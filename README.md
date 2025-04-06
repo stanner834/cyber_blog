@@ -1,6 +1,6 @@
 ---
 icon: square-user
-cover: .gitbook/assets/work1.jpg
+cover: .gitbook/assets/work1 (1).jpg
 coverY: 0
 layout:
   cover:
@@ -52,17 +52,10 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 ## Top tools
 
-* <mark style="color:blue;">`Splunk`</mark>
-* <mark style="color:blue;">`Google Sec-Ops`</mark>
-* <mark style="color:blue;">`Microsoft XDR`</mark>
-* <mark style="color:blue;">`Crowdstrike EDR`</mark>
-* <mark style="color:blue;">`Tanium EDR`</mark>
-* <mark style="color:blue;">`Sigma rules`</mark>
-* <mark style="color:blue;">`Cribl Stream & Edge`</mark>
-* <mark style="color:blue;">`Python`</mark>
-* <mark style="color:blue;">`YARA-L 2.0`</mark>
+* <mark style="color:blue;">`SIEM`</mark>
+* <mark style="color:blue;">`EDR`</mark>
 * <mark style="color:blue;">`Linux & Windows OS`</mark>
-* <mark style="color:blue;">`SQL`</mark>
+* <mark style="color:blue;">`SQL, KQL, Sigma, Python`</mark>
 
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/) license, and any code created by the author (Samuel Tanner) is under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
 
