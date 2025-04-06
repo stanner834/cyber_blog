@@ -1,2 +1,0 @@
-# Kasm workspaces
-

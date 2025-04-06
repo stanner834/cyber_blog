@@ -32,10 +32,7 @@
   * [OpenVPN on Raspberry Pi](homelab/openvpn-on-raspberry-pi.md)
   * [Pi-Hole](homelab/pi-hole.md)
   * [Raspberry Pi project ideas](homelab/raspberry-pi-project-ideas.md)
-* [Privacy](homelab/privacy/README.md)
-  * [Kasm workspaces](homelab/privacy/kasm-workspaces.md)
-  * [Tails Linux](homelab/tails-linux.md)
-  * [Whonix](homelab/privacy/whonix.md)
+* [Privacy](homelab/privacy.md)
 
 ## CTF
 
