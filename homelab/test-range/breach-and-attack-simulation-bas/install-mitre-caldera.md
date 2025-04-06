@@ -38,21 +38,21 @@ Then, open a web browser and navigate to `localhost:8888`. The default credentia
 * **Red team**: `Red:Admin`
 * **Blue team**: `Blue:Admin`
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 ### Deploying an Agent
 
 First, deploy an agent by navigating to the "Agent" tab on the left and selecting "Deploy an Agent."
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 There are several agent types available. For this example, we'll continue with the default install option, Sandcat, which communicates via HTTP. Since I am using a Windows machine, I will select Windows, enter the IP of my local machine, and specify the name of the agent to be installed.
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 Copy and paste the command into the terminal of the device where you want to install the agent. After executing the commands, you should see the agent's health appear in the "Agents" tab.
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 Now, MITRE Caldera is installed and ready to run on your machine.
 
