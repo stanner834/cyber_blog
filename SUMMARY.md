@@ -55,9 +55,6 @@
 * [Cheat sheets](ctf/cheat-sheets/README.md)
   * [tmux](ctf/cheat-sheets/tmux.md)
   * [Linux](ctf/cheat-sheets/linux.md)
-* [Weekly progress](ctf/weekly-progress/README.md)
-  * [Learning levels](ctf/weekly-progress/learning-levels.md)
-  * [Skill sheet #1 - Assessment (9/28/2024)](ctf/weekly-progress/skill-sheet-1-assessment-9-28-2024.md)
 
 ## Cybersecurity
 
