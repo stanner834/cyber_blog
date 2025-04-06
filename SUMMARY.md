@@ -78,8 +78,6 @@
 ## AI/ML
 
 * [Tools](ai-ml/tools/README.md)
-  * [Open WebUI](ai-ml/tools/open-webui.md)
-  * [Browser WebUI](ai-ml/tools/browser-webui.md)
   * [D.I.A.N.A](ai-ml/tools/d.i.a.n.a.md)
   * [Fabric](ai-ml/tools/fabric.md)
   * [Run Ollama locally](ai-ml/tools/run-ollama-locally.md)
