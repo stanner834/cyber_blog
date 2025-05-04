@@ -26,13 +26,9 @@ I have embarked on a journey of continuous learning and blogging about what I do
 
 ## Social Media
 
-{% embed url="https://www.youtube.com/@networking-dojo" %}
-
 {% embed url="https://github.com/stanner834" %}
 
 {% embed url="https://www.linkedin.com/in/samuelatanner/" %}
-
-{% embed url="https://bsky.app/profile/networking-dojo.com" %}
 
 ## Professional affiliations
 

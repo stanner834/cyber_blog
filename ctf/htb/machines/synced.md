@@ -17,7 +17,7 @@ In this command:
 
 When the command completes, we see that **port 873** is open, which is the default port for `rsync`.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Understanding Rsync
 
@@ -29,7 +29,7 @@ rsync [OPTION] … [USER@]HOST::SRC [DEST]
 
 Rsync transfers files using a remote connection and spawns a receiver process on the host, making it possible to exploit if misconfigured. You can review the available rsync commands on the [official man page](https://linux.die.net/man/1/rsync).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Listing Available Directories
 
@@ -41,7 +41,7 @@ rsync --list-only rsync://<target_ip>/
 
 If the server allows anonymous access, the command will return a list of available directories. In this example, we find a directory called **public**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4: Listing Files in the Public Share
 
@@ -53,7 +53,7 @@ rsync --list-only rsync://<target_ip>/public
 
 This reveals the contents of the public directory, and we notice a **flag** file present in the list.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5: Exfiltrating the Flag
 

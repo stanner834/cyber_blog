@@ -1,7 +1,3 @@
----
-icon: shovel
----
-
 # Tools
 
 {% embed url="https://bazaar.abuse.ch/" %}

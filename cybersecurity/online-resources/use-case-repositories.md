@@ -1,7 +1,3 @@
----
-icon: flag
----
-
 # Use case repositories
 
 {% embed url="https://github.com/SigmaHQ/sigma" %}

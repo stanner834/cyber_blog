@@ -4,7 +4,7 @@ In this blog, we explore the process of identifying and exploiting vulnerabiliti
 
 Perform an `nmap` scan using the `-sV` switch. We see we get a response with multiple services up and running on the target server.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If we do some basic research, we identify some vulnerabilities relating to the Samba version running on the server.
 
@@ -18,29 +18,29 @@ Type the following commands to properly execute the Metasploit payload:
 
 `search cve-2007-2447`
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption><p>Find Metasploit script</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption><p>Find Metasploit script</p></figcaption></figure>
 
 `use exploit/multi/samba/usermap_script`
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Use script</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Use script</p></figcaption></figure>
 
 `set rhost "Enter applicable ip address"`
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Set your host IP properly</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Set your host IP properly</p></figcaption></figure>
 
 `run`
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>Run script</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>Run script</p></figcaption></figure>
 
 We now have successfully established a connection with the remote Samba server.
 
 You will find the user flag in the /home/makis directory. Type `Shell` to spawn a new shell in your CMD and locate the root flag by typing `cd /root`.
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here is the Metasploit script that actually performs the exploit.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Example Execution Flow:
 

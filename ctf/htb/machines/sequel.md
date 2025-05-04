@@ -22,7 +22,7 @@ Looks like we had some luck and were able to login with default credentials.&#x2
 
 Run show databases to see the available databases
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 HTB looks interesting, type USE htb; to being writing commands to the database.&#x20;
 
@@ -30,8 +30,8 @@ We have now successfully changed and loaded the database, we can run a couple ot
 
 SHOW tables;
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 SELECT \* FROM config;
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

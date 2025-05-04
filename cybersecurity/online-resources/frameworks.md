@@ -1,7 +1,3 @@
----
-icon: image
----
-
 # Frameworks
 
 {% embed url="https://attack.mitre.org/" %}

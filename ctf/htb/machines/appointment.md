@@ -12,7 +12,7 @@ Apache is a very common web server, we see it is running 2.4.38 on a Debian mach
 
 Navigating to the IP address we are faced with a login page.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 We could try to brute force the login page, but that will likely end up in us being detection by the security measures on the other side. The next sensible tactic would be to test the login form for some sort of SQL injection vulnerability.&#x20;
 
@@ -57,8 +57,8 @@ Anything after the # just essentially gets voided. Since we void the password va
 
 The single quote closes the string prematurely, allowing you to enter more commands.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 After selecting the login button, you will see the flag.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
