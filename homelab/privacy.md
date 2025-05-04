@@ -1,5 +1,5 @@
 ---
-description: Here are some great tools for maintain internet privacy!
+description: Here are some great tools to maintain internet privacy!
 icon: lock
 ---
 
