@@ -52,3 +52,22 @@ The malicious file dropped a few files on disk. Where was "once.cmd" created on 
 
 <figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
+The malicious file attempted to reach a dummy domain, most likely to check the internet connection status. What domain name did it try to connect to?
+
+```
+index="unit42" sourcetype="csv" www
+```
+
+<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+
+Which IP address did the malicious process try to reach out to?
+
+<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+
+The malicious process terminated itself after infecting the PC with a backdoored variant of UltraVNC. When did the process terminate itself?
+
+```
+index="unit42" sourcetype="csv" EventId=5
+```
+
+<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
